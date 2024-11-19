@@ -28,9 +28,19 @@ Este estudo aborda a análise de comportamento de renovação de seguros, identi
   - `matplotlib`, `seaborn`: Visualização de dados.
   - `scikit-learn`: Implementação dos modelos de regressão logística e árvore de decisão.
 
+---
 
-## 📝 Instruções para Uso  
+## 📊 Finalidade  
 
-1. Clone este repositório em seu ambiente local:
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
+- **Inadimplência**: Suporte a estratégias de gestão de risco, permitindo maior precisão na identificação de clientes com maior probabilidade de inadimplência.  
+- **Renovação de Seguros**: Identificação de padrões que ajudam a personalizar ofertas e melhorar a retenção de clientes.
+
+---
+
+## 📌 Observação  
+
+Esses estudos são voltados para fins educacionais e de exploração inicial. A aplicação prática em contextos empresariais pode exigir adaptações e validações adicionais, considerando as particularidades do problema e os dados disponíveis.  
+
+---  
+
+Colabore, explore e contribua! 🚀  
