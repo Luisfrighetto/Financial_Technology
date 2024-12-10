@@ -1,301 +1,1001 @@
-,Idade,Valor_Emprestimo,Duracao_Emprestimo,Sexo_M,Escolaridade_Graduacao,Escolaridade_Pos Graduacao,Tipo_Moradia_De favor,Tipo_Moradia_Propria,Saldo_Investimento_Moderado,Saldo_Investimento_Pouco,Saldo_Investimento_Sem investimento,Saldo_Conta_Corrente_Moderado,Saldo_Conta_Corrente_Pouco,Saldo_Conta_Corrente_Sem conta,Prob_Inadimplencia
-521,24,3190,18,0,1,0,0,1,0,1,0,0,1,0,1.0
-165,32,2978,6,1,1,0,0,1,0,0,0,0,0,1,1.0
-836,21,886,12,0,1,0,0,1,0,0,1,0,0,1,1.0
-557,29,5003,21,0,1,0,0,1,0,0,1,0,0,1,1.0
-695,50,1236,6,1,1,0,0,0,0,0,0,0,0,1,1.0
-535,33,2319,21,1,1,0,0,0,0,1,0,0,0,0,1.0
-29,63,6836,60,1,1,0,0,1,0,1,0,0,1,0,1.0
-78,39,9436,54,1,0,1,0,1,0,0,1,0,0,1,1.0
-613,22,3632,24,0,1,0,0,0,0,1,0,0,1,0,1.0
-208,21,6568,24,1,0,1,0,1,0,1,0,0,1,0,1.0
-332,24,7408,60,0,0,0,0,1,1,0,0,1,0,0,1.0
-408,26,3235,24,1,0,0,0,1,0,0,0,0,0,1,1.0
-213,66,1908,30,1,0,0,0,1,0,1,0,0,0,0,1.0
-199,40,4297,18,1,0,0,0,1,0,1,0,1,0,0,1.0
-656,41,888,12,1,0,1,0,1,0,1,0,1,0,0,1.0
-829,38,6681,48,1,1,0,1,0,0,0,1,0,0,0,1.0
-948,43,1533,18,1,0,1,0,1,0,1,0,0,0,1,1.0
-596,23,1442,24,0,1,0,0,0,0,1,0,0,1,0,1.0
-918,33,2359,24,1,1,0,0,1,1,0,0,0,1,0,1.0
-942,31,929,24,1,1,0,0,1,0,0,1,0,0,1,1.0
-495,20,2996,24,1,1,0,0,1,0,0,1,0,1,0,1.0
-49,28,2073,12,0,1,0,0,1,1,0,0,0,0,1,1.0
-975,57,1258,24,0,0,1,0,1,0,0,0,0,0,0,1.0
-734,37,3380,4,0,1,0,0,1,0,1,0,0,0,1,1.0
-305,33,1543,6,1,1,0,0,1,0,0,0,0,0,1,1.0
-708,25,1206,9,0,1,0,0,1,0,1,0,1,0,0,1.0
-907,27,3711,36,1,1,0,0,1,0,0,1,0,0,0,1.0
-249,22,433,18,0,1,0,0,0,0,1,0,0,0,1,1.0
-664,50,1047,6,0,0,1,0,1,0,1,0,0,0,0,1.0
-331,30,1864,18,0,1,0,0,1,1,0,0,0,0,1,1.0
-655,22,3973,14,1,1,0,1,0,0,1,0,0,1,0,1.0
-827,36,4165,18,1,1,0,0,1,0,1,0,0,0,1,1.0
-925,46,697,12,1,1,0,0,1,0,1,0,0,1,0,1.0
-141,30,4795,36,0,0,0,0,1,0,1,0,1,0,0,1.0
-65,48,5190,27,1,1,0,0,1,0,0,1,0,0,1,1.0
-824,35,3780,18,1,0,0,0,1,0,1,0,0,0,1,1.0
-749,33,3029,15,1,1,0,0,1,0,1,0,0,0,1,1.0
-365,36,1542,12,1,1,0,0,1,0,1,0,0,0,1,1.0
-737,35,4380,18,1,0,1,0,1,1,0,0,0,1,0,1.0
-314,29,1494,4,1,0,1,0,1,0,0,1,0,0,0,1.0
-298,43,2515,18,1,1,0,0,1,0,1,0,0,0,1,1.0
-668,43,4843,12,1,1,0,0,0,0,1,0,0,1,0,1.0
-865,20,2221,15,0,1,0,0,0,0,0,0,0,0,1,1.0
-650,50,7476,48,1,0,0,1,0,0,1,0,0,1,0,1.0
-649,40,684,12,1,0,1,0,0,0,1,0,0,1,0,1.0
-767,31,2901,10,0,1,0,0,0,0,0,1,0,0,1,1.0
-595,32,931,6,0,0,1,0,1,1,0,0,1,0,0,1.0
-884,43,4057,24,1,1,0,0,1,0,1,0,1,0,0,1.0
-60,27,1391,9,1,1,0,0,1,0,1,0,1,0,0,1.0
-697,38,926,12,0,0,0,0,1,0,1,0,0,0,1,1.0
-309,22,276,9,1,0,1,0,0,0,1,0,1,0,0,1.0
-462,34,3017,12,0,0,0,0,0,0,1,0,1,0,0,1.0
-941,31,1546,10,1,0,1,0,1,0,1,0,0,0,1,1.0
-429,55,1190,18,0,0,0,1,0,0,1,0,0,1,0,1.0
-977,42,2427,18,1,1,0,0,1,0,0,1,0,0,0,1.0
-689,31,3651,12,1,1,0,0,1,0,0,0,0,1,0,1.0
-310,40,5381,48,1,0,0,1,0,0,0,1,0,0,0,1.0
-355,23,1246,24,1,0,1,0,1,0,1,0,1,0,0,1.0
-361,37,3399,12,1,0,0,0,1,0,0,1,0,0,0,1.0
-137,66,766,12,1,0,1,0,1,0,0,0,1,0,0,1.0
-845,35,3976,21,1,1,0,0,1,0,0,1,0,0,0,1.0
-526,31,1532,15,0,1,0,0,1,1,0,0,0,0,1,1.0
-377,36,846,7,1,1,0,1,0,0,0,1,0,0,1,1.0
-670,27,4139,24,1,0,1,0,1,1,0,0,0,0,1,1.0
-494,39,2122,12,1,0,1,0,0,0,1,0,0,1,0,1.0
-677,24,5595,72,1,1,0,0,1,1,0,0,1,0,0,1.0
-802,24,4272,20,0,1,0,0,1,0,1,0,0,1,0,1.0
-259,57,1154,11,0,0,1,0,1,1,0,0,0,0,1,1.0
-254,24,2030,9,1,1,0,0,1,0,0,1,0,0,0,1.0
-363,21,1766,6,1,1,0,0,0,0,1,0,0,0,1,1.0
-486,52,3077,12,1,1,0,0,1,0,1,0,0,0,1,1.0
-989,48,1743,24,1,0,1,0,1,0,1,0,1,0,0,1.0
-110,31,1449,6,1,1,0,0,1,1,0,0,1,0,0,1.0
-479,44,1478,15,1,1,0,0,1,0,1,0,0,1,0,1.0
-896,28,2606,21,0,0,0,0,0,0,1,0,0,1,0,1.0
-2,49,2096,12,1,0,1,0,1,0,1,0,0,0,1,1.0
-544,61,1255,12,1,0,1,0,1,0,1,0,0,0,1,1.0
-797,22,1258,12,0,0,1,0,0,0,1,0,0,0,1,1.0
-783,23,836,12,0,0,1,0,1,1,0,0,1,0,0,1.0
-81,47,1213,15,1,1,0,0,1,0,0,0,0,0,1,1.0
-603,28,3349,36,0,0,0,0,1,0,1,0,0,0,1,1.0
-196,28,1382,6,0,1,0,0,1,0,1,0,0,0,1,1.0
-9,28,5234,30,1,0,0,0,1,0,1,0,1,0,0,1.0
-523,23,3488,24,0,1,0,0,1,1,0,0,0,0,1,1.0
-250,39,666,6,0,0,1,0,1,0,0,0,0,1,0,1.0
-900,43,2625,16,1,1,0,0,0,0,1,0,0,1,0,1.0
-118,23,4281,33,0,1,0,0,1,0,0,0,0,1,0,1.0
-490,26,1934,12,1,1,0,0,1,0,1,0,0,0,1,1.0
-381,38,12976,18,0,0,0,1,0,0,1,0,1,0,0,1.0
-631,44,1553,18,1,1,0,0,1,0,1,0,0,1,0,1.0
-380,39,2212,20,1,1,0,0,1,0,0,1,0,1,0,1.0
-798,54,717,24,1,1,0,0,1,0,0,1,0,0,1,1.0
-868,37,7409,36,1,1,0,0,1,0,0,1,0,0,1,1.0
-587,21,1289,12,1,0,1,0,1,0,1,0,0,1,0,1.0
-239,39,2522,30,1,1,0,0,1,0,1,0,0,1,0,1.0
-350,23,1236,9,0,1,0,0,0,0,1,0,0,0,1,1.0
-290,26,1076,12,1,1,0,0,1,0,1,0,0,0,1,1.0
-7,35,6948,36,1,0,0,0,0,0,1,0,1,0,0,1.0
-428,20,1313,9,1,1,0,0,1,0,1,0,0,0,1,1.0
-935,30,1919,30,1,0,0,0,1,1,0,0,1,0,0,1.0
-468,26,2764,33,0,1,0,0,1,0,1,0,0,0,1,1.0
-362,36,2247,12,0,1,0,0,1,0,1,0,0,0,0,1.0
-464,34,1950,18,1,1,0,0,1,0,1,0,0,0,1,1.0
-501,42,5493,36,1,1,0,1,0,0,1,0,0,1,0,1.0
-796,51,7511,18,1,1,0,1,0,0,0,1,0,1,0,1.0
-946,30,3349,24,1,1,0,1,0,0,0,0,0,1,0,1.0
-950,40,3590,18,1,0,0,0,1,0,1,0,1,0,0,1.0
-227,53,7865,12,1,0,0,1,0,0,1,0,0,1,0,1.0
-449,61,1512,15,1,1,0,0,1,0,0,0,1,0,0,1.0
-359,23,2406,30,0,1,0,0,0,0,1,0,0,1,0,1.0
-717,32,1505,18,1,0,0,1,0,0,1,0,0,0,1,1.0
-211,45,3835,36,0,0,1,0,1,0,0,1,0,0,1,1.0
-357,26,4463,36,1,0,0,0,1,0,1,0,0,0,1,1.0
-266,36,6304,36,1,1,0,0,1,0,0,1,0,0,1,1.0
-97,34,2622,18,1,1,0,0,1,1,0,0,1,0,0,1.0
-465,63,2924,24,1,1,0,0,1,0,1,0,0,1,0,1.0
-514,54,2255,24,1,1,0,0,1,0,0,1,0,0,1,1.0
-204,38,1495,12,1,0,1,0,1,0,1,0,0,0,1,1.0
-3,45,7882,42,1,1,0,1,0,0,1,0,0,1,0,1.0
-333,24,11590,48,0,0,1,0,0,1,0,0,0,0,1,1.0
-192,36,3915,27,1,1,0,0,1,0,1,0,1,0,0,1.0
-963,35,2397,24,1,1,0,0,1,0,0,0,0,0,1,1.0
-231,51,2507,9,1,0,1,1,0,0,0,0,0,0,1,1.0
-31,27,4020,24,1,1,0,0,1,0,1,0,0,1,0,1.0
-33,57,1264,12,1,0,1,0,0,0,0,1,0,0,1,1.0
-575,24,2788,15,0,1,0,0,1,0,1,0,0,0,1,1.0
-481,26,1201,24,1,1,0,0,1,0,1,0,1,0,0,1.0
-994,50,2390,12,1,1,0,0,1,0,0,1,0,0,1,1.0
-344,37,3949,10,1,0,1,0,1,0,1,0,0,0,0,1.0
-536,75,1374,6,0,0,0,0,1,0,0,1,0,1,0,1.0
-904,36,1278,24,1,0,0,0,1,0,1,0,0,0,1,1.0
-799,35,1549,9,1,0,0,0,1,0,0,1,0,0,0,1.0
-306,24,4811,30,0,0,1,0,0,0,0,1,0,0,1,1.0
-109,35,1410,14,1,1,0,0,1,0,0,0,1,0,0,1.0
-398,46,1223,12,1,1,0,0,0,0,1,0,1,0,0,1.0
-731,21,1987,24,1,0,1,0,0,0,1,0,0,1,0,1.0
-5,35,9055,36,1,0,1,1,0,0,0,1,0,0,1,1.0
-922,22,1366,9,0,1,0,0,0,0,1,0,0,1,0,1.0
-916,32,2848,10,1,1,0,0,1,1,0,0,0,0,1,1.0
-519,36,700,6,1,1,0,1,0,0,0,1,0,0,1,1.0
-323,28,2659,18,1,1,0,0,1,0,0,0,0,1,0,1.0
-894,29,1169,18,1,1,0,0,1,0,0,1,0,0,1,1.0
-430,74,3448,5,1,0,1,0,1,0,1,0,0,0,1,1.0
-789,27,5998,40,1,1,0,0,1,0,1,0,0,1,0,1.0
-991,34,1569,15,1,0,1,0,1,1,0,0,0,0,1,1.0
-82,24,1568,18,0,0,1,0,0,1,0,0,0,0,1,1.0
-286,26,4788,48,1,1,0,0,1,0,1,0,0,1,0,1.0
-84,52,2315,10,1,0,1,0,1,0,1,0,0,1,0,1.0
-77,51,4771,11,1,1,0,0,1,0,1,0,1,0,0,1.0
-158,38,3512,24,1,1,0,0,1,1,0,0,1,0,0,1.0
-643,33,1851,24,1,1,0,0,1,0,1,0,0,0,1,1.0
-321,32,1938,24,1,1,0,0,1,0,1,0,0,1,0,1.0
-30,36,1913,18,1,1,0,0,1,0,0,0,1,0,0,1.0
-578,27,2820,36,1,1,0,0,1,0,1,0,1,0,0,1.0
-261,55,1603,24,0,1,0,0,1,0,1,0,0,1,0,1.0
-879,36,6742,30,1,1,0,0,1,0,0,1,0,0,1,1.0
-570,23,3234,24,0,0,1,0,0,0,1,0,0,1,0,1.0
-837,23,601,4,0,0,1,0,0,0,1,0,0,0,1,1.0
-439,26,609,12,0,0,0,0,1,0,1,0,0,0,0,1.0
-601,30,918,9,0,1,0,0,1,0,1,0,1,0,0,1.0
-924,55,6872,24,1,1,0,0,1,0,1,0,0,1,0,1.0
-277,49,1262,12,1,0,1,0,1,0,0,1,0,1,0,1.0
-299,32,2745,21,1,1,0,0,1,0,0,0,1,0,0,1.0
-974,33,2831,30,0,1,0,0,1,0,1,0,0,0,1,1.0
-312,26,3749,24,0,1,0,0,1,0,1,0,0,0,0,1.0
-96,61,2012,12,0,1,0,0,1,0,0,1,0,0,1,1.0
-328,31,4473,36,1,1,0,0,1,0,1,0,0,0,0,1.0
-59,23,6229,36,0,0,1,0,0,0,1,0,0,1,0,1.0
-23,44,1804,12,1,1,0,0,1,1,0,0,1,0,0,1.0
-617,37,3676,6,1,1,0,0,0,0,1,0,0,1,0,1.0
-292,44,6419,24,0,0,0,1,0,0,1,0,0,1,0,1.0
-10,25,1295,12,0,1,0,0,0,0,1,0,1,0,0,1.0
-590,58,385,12,0,0,1,0,1,0,1,0,0,1,0,1.0
-493,38,368,6,1,1,0,0,1,0,0,1,0,0,0,1.0
-107,32,6078,12,1,1,0,0,1,0,1,0,1,0,0,1.0
-543,34,2864,18,1,0,1,0,1,0,1,0,0,0,0,1.0
-70,30,8133,36,0,1,0,0,1,0,1,0,0,0,1,1.0
-866,27,2389,18,0,1,0,0,1,0,1,0,0,1,0,1.0
-662,50,2241,21,1,1,0,0,1,0,1,0,0,0,1,1.0
-692,29,2896,24,1,1,0,0,1,1,0,0,1,0,0,1.0
-604,23,1275,10,0,1,0,0,1,0,1,0,0,0,0,1.0
-209,55,1413,12,1,1,0,0,1,0,0,0,0,0,1,1.0
-542,31,6350,30,1,1,0,0,1,0,0,1,0,1,0,1.0
-54,57,2225,36,1,1,0,1,0,0,1,0,1,0,0,1.0
-296,20,4675,12,0,1,0,0,0,0,0,1,0,0,1,1.0
-820,27,1101,12,1,1,0,0,1,0,1,0,0,0,1,1.0
-221,23,1200,12,0,1,0,0,0,0,0,1,0,1,0,1.0
-901,44,3485,20,1,1,0,0,1,0,0,1,0,0,1,1.0
-584,52,2133,12,0,0,0,1,0,0,0,1,0,0,1,1.0
-687,30,2862,36,1,1,0,1,0,1,0,0,1,0,0,1.0
-198,36,2760,24,1,1,0,1,0,0,0,1,0,0,0,1.0
-280,23,3368,15,1,1,0,0,0,0,0,0,0,0,1,1.0
-899,42,4153,18,1,1,0,0,1,0,1,0,0,1,0,1.0
-938,42,6288,60,1,1,0,1,0,0,1,0,1,0,0,1.0
-973,36,7297,60,1,1,0,0,0,0,1,0,0,1,0,1.0
-636,28,1376,24,0,1,0,0,1,0,0,0,0,0,1,1.0
-76,34,3965,42,1,1,0,0,1,0,1,0,0,1,0,1.0
-811,28,484,6,1,0,1,0,1,0,1,0,1,0,0,1.0
-136,27,8613,27,1,1,0,0,1,0,0,0,0,0,1,1.0
-859,26,3577,9,1,1,0,0,0,1,0,0,0,0,1,1.0
-513,20,585,12,1,1,0,0,0,0,1,0,1,0,0,1.0
-626,41,2116,6,1,1,0,0,1,0,1,0,0,0,0,1.0
-678,64,2384,24,1,0,1,0,0,0,1,0,0,1,0,1.0
-411,35,7253,33,1,0,0,0,1,0,1,0,0,0,1,1.0
-660,23,1297,12,1,1,0,0,0,0,1,0,0,0,0,1.0
-740,32,2325,24,1,1,0,0,1,1,0,0,0,1,0,1.0
-883,65,1098,18,0,0,0,0,1,0,1,0,0,0,1,1.0
-761,24,2124,18,0,1,0,0,0,0,1,0,0,1,0,1.0
-319,27,3643,15,0,0,1,0,1,0,1,0,0,1,0,1.0
-902,42,10477,36,1,1,0,1,0,0,0,1,0,0,1,1.0
-370,36,3079,36,1,1,0,0,1,0,0,1,0,0,1,1.0
-499,28,1323,6,1,1,0,0,1,1,0,0,0,0,0,1.0
-621,32,1530,18,1,1,0,0,1,0,1,0,0,0,1,1.0
-139,44,1881,12,0,0,1,0,0,0,1,0,0,0,0,1.0
-346,23,882,13,1,1,0,0,1,0,1,0,1,0,0,1.0
-947,38,2859,12,1,0,0,0,1,0,0,1,0,0,1,1.0
-986,33,6289,42,1,1,0,0,1,0,1,0,0,0,0,1.0
-549,35,8858,48,1,1,0,1,0,0,0,1,0,0,1,1.0
-101,24,2323,36,1,1,0,0,0,0,1,0,1,0,0,1.0
-235,30,1823,24,1,0,0,0,1,0,1,0,0,1,0,1.0
-210,33,3074,9,1,1,0,0,1,0,0,1,0,0,1,1.0
-527,42,1503,4,1,0,1,0,1,0,1,0,0,0,1,1.0
-371,33,6070,18,1,1,0,0,1,0,1,0,0,0,1,1.0
-174,26,3414,21,1,1,0,0,1,0,1,0,0,1,0,1.0
-741,23,1048,10,1,0,1,0,1,0,1,0,1,0,0,1.0
-289,48,1024,24,1,1,0,0,1,0,1,0,0,1,0,1.0
-822,41,2712,36,1,1,0,0,1,0,1,0,0,1,0,1.0
-599,32,3863,24,1,1,0,1,0,0,1,0,0,0,1,1.0
-867,42,3331,12,1,1,0,0,1,0,1,0,0,0,1,1.0
-445,41,1244,9,0,0,1,0,0,0,0,1,0,0,1,1.0
-583,33,2384,36,1,0,1,0,0,0,1,0,1,0,0,1.0
-559,31,1928,18,1,0,1,0,1,0,1,0,1,0,0,1.0
-237,61,2767,21,1,0,1,0,0,1,0,0,1,0,0,1.0
-260,27,1657,12,1,1,0,0,1,0,1,0,0,1,0,1.0
-713,25,1138,9,1,0,1,0,1,0,1,0,0,1,0,1.0
-425,21,2779,18,1,1,0,0,0,0,1,0,1,0,0,1.0
-892,38,2171,12,1,0,1,0,1,0,1,0,0,1,0,1.0
-294,46,7629,48,1,0,0,0,1,0,0,1,0,0,1,1.0
-534,25,3105,24,1,1,0,0,1,0,0,1,0,0,1,1.0
-978,47,2538,24,1,0,1,0,1,0,1,0,0,0,1,1.0
-184,36,884,18,1,1,0,0,1,0,1,0,1,0,0,1.0
-432,36,1872,6,1,0,0,1,0,0,1,0,0,1,0,1.0
-86,27,1295,18,0,1,0,0,1,0,1,0,1,0,0,1.0
-800,54,1597,24,1,1,0,1,0,0,1,0,0,0,1,1.0
-849,57,709,12,1,0,1,0,1,0,1,0,0,1,0,1.0
-652,45,2303,24,1,1,0,0,1,0,1,0,0,1,0,1.0
-265,37,802,15,1,1,0,0,1,0,1,0,1,0,0,1.0
-244,35,3447,12,0,0,1,0,1,0,0,0,0,0,1,1.0
-810,26,907,8,1,1,0,0,1,0,1,0,1,0,0,1.0
-914,31,3161,24,1,1,0,0,0,0,1,0,0,1,0,1.0
-893,34,5800,36,1,1,0,0,1,0,1,0,1,0,0,1.0
-281,50,1574,12,1,1,0,0,1,0,1,0,0,0,1,1.0
-721,24,433,6,0,1,0,0,0,0,0,0,1,0,0,1.0
-247,35,1204,6,1,1,0,0,0,1,0,0,0,0,1,1.0
-44,58,6143,48,0,0,1,1,0,0,1,0,0,1,0,1.0
-72,51,1164,8,1,0,0,1,0,0,1,0,0,1,0,1.0
-25,36,1374,6,1,0,1,0,1,0,1,0,0,1,0,1.0
-215,39,932,6,0,0,1,0,1,0,0,1,0,0,0,1.0
-120,25,1835,21,0,1,0,0,1,0,1,0,0,1,0,1.0
-55,26,783,6,1,0,1,0,1,0,0,1,0,0,1,1.0
-529,41,662,6,1,0,1,0,1,0,1,0,0,1,0,1.0
-995,31,1736,12,0,0,1,0,1,0,1,0,0,0,1,1.0
-816,62,1338,6,1,1,0,0,1,0,0,0,0,0,1,1.0
-985,25,1433,15,0,1,0,0,0,0,1,0,0,1,0,1.0
-823,47,731,8,1,0,1,0,1,0,1,0,0,1,0,1.0
-528,31,2302,36,1,1,0,0,0,0,1,0,0,1,0,1.0
-451,29,518,6,0,1,0,0,1,0,1,0,0,0,1,1.0
-382,25,1283,22,0,1,0,0,0,0,0,1,0,0,1,1.0
-327,34,1525,24,0,1,0,0,1,0,0,0,0,0,1,1.0
-753,25,5771,30,0,1,0,0,1,0,1,0,0,0,1,1.0
-714,27,14027,60,1,0,0,0,1,0,1,0,1,0,0,1.0
-998,23,1845,45,1,1,0,1,0,0,1,0,0,1,0,1.0
-548,24,626,12,0,0,1,0,1,0,1,0,0,1,0,1.0
-318,32,701,12,1,1,0,0,1,0,1,0,0,0,1,1.0
-67,22,1007,12,1,1,0,0,1,0,0,0,1,0,0,1.0
-275,32,2697,9,1,1,0,0,1,0,1,0,0,0,1,1.0
-66,29,2171,12,0,1,0,0,1,0,1,0,0,0,1,1.0
-679,26,1453,18,0,1,0,0,1,0,1,0,0,0,1,1.0
-307,33,727,12,1,0,1,0,1,1,0,0,0,1,0,1.0
-589,60,2246,12,1,1,0,0,1,0,1,0,0,1,0,1.0
-39,24,458,9,1,1,0,0,1,0,1,0,1,0,0,1.0
-522,53,7119,48,1,1,0,1,0,0,1,0,0,1,0,1.0
-218,24,3021,24,1,0,1,0,0,0,1,0,0,1,0,1.0
-787,38,2751,48,1,1,0,0,1,0,0,1,0,0,1,1.0
-256,35,2684,24,1,0,1,0,1,0,1,0,0,0,1,1.0
-917,68,14896,6,1,0,0,0,1,0,1,0,0,1,0,1.0
-168,25,3972,24,0,1,0,0,0,0,1,0,0,0,1,1.0
-959,30,3069,24,1,1,0,1,0,1,0,0,1,0,0,1.0
-554,67,1199,9,0,0,0,0,1,0,1,0,1,0,0,1.0
-644,32,1880,18,1,0,0,0,1,0,1,0,0,1,0,1.0
-635,47,1393,12,1,1,0,0,1,0,1,0,0,0,1,1.0
-936,28,745,9,0,0,1,0,1,0,1,0,0,0,0,1.0
-436,23,660,6,1,0,1,0,0,0,0,0,0,0,1,1.0
-351,29,959,9,0,1,0,0,1,0,1,0,1,0,0,1.0
-716,40,3077,30,1,1,0,0,1,0,0,1,0,0,1,1.0
-826,33,3966,18,0,1,0,0,0,0,1,0,0,1,0,1.0
-63,25,14421,48,1,1,0,0,1,0,1,0,1,0,0,1.0
-88,30,2249,18,1,0,0,0,1,1,0,0,0,1,0,1.0
-764,27,2463,24,1,1,0,0,1,1,0,0,0,0,1,1.0
-155,20,1282,12,0,1,0,0,0,0,1,0,0,1,0,1.0
+,Idade,Sexo,Escolaridade,Tipo_Moradia,Saldo_Investimento,Saldo_Conta_Corrente,Valor_Emprestimo,Duracao_Emprestimo,Inadimplencia,Probabilidades_previstas
+11,24,H,Graduacao,Alugada,Pouco,Pouco,4308,48,1,0.84001
+332,24,H,Ensino Medio,Propria,Moderado,Moderado,7408,60,1,0.82032
+375,37,H,Graduacao,Alugada,Pouco,Pouco,7685,48,1,0.80418
+973,36,M,Graduacao,Alugada,Pouco,Pouco,7297,60,1,0.80011
+59,23,H,Pos Graduacao,Alugada,Pouco,Pouco,6229,36,1,0.79927
+915,32,H,Ensino Medio,Propria,Pouco,Moderado,18424,48,1,0.79199
+714,27,M,Ensino Medio,Propria,Pouco,Moderado,14027,60,1,0.78867
+242,24,M,Graduacao,De favor,Pouco,Pouco,4605,48,1,0.78496
+374,60,H,Ensino Medio,De favor,Moderado,Moderado,14782,60,1,0.78115
+538,42,M,Ensino Medio,De favor,Pouco,Pouco,7763,48,1,0.77498
+771,25,H,Ensino Medio,Propria,Pouco,Pouco,8065,36,1,0.77378
+832,29,M,Graduacao,Alugada,Pouco,Pouco,11816,45,1,0.77133
+998,23,M,Graduacao,De favor,Pouco,Pouco,1845,45,1,0.76211
+736,23,H,Ensino Medio,Alugada,Pouco,Moderado,11560,24,1,0.75467
+677,24,M,Graduacao,Propria,Moderado,Moderado,5595,72,1,0.75334
+359,23,H,Graduacao,Alugada,Pouco,Pouco,2406,30,1,0.74937
+569,31,H,Graduacao,Propria,Pouco,Pouco,6758,48,1,0.749
+444,30,H,Ensino Medio,Propria,Pouco,Moderado,5096,48,1,0.74517
+285,35,H,Pos Graduacao,Propria,Pouco,Pouco,10722,47,0,0.74493
+287,31,M,Ensino Medio,De favor,Moderado,Moderado,7582,48,0,0.74315
+927,39,M,Graduacao,De favor,Pouco,Pouco,10297,48,1,0.74148
+972,29,H,Ensino Medio,Alugada,Pouco,Pouco,1193,24,1,0.7414
+650,50,M,Ensino Medio,De favor,Pouco,Pouco,7476,48,0,0.73687
+896,28,H,Ensino Medio,Alugada,Pouco,Pouco,2606,21,0,0.73517
+1,22,H,Graduacao,Propria,Pouco,Moderado,5951,48,1,0.72623
+295,26,H,Graduacao,Propria,Pouco,Moderado,9960,48,1,0.72511
+613,22,H,Graduacao,Alugada,Pouco,Pouco,3632,24,0,0.72474
+570,23,H,Pos Graduacao,Alugada,Pouco,Pouco,3234,24,1,0.72092
+938,42,M,Graduacao,De favor,Pouco,Moderado,6288,60,1,0.71554
+291,28,M,Ensino Medio,Alugada,Pouco,Moderado,9398,36,1,0.71221
+44,58,H,Pos Graduacao,De favor,Pouco,Pouco,6143,48,1,0.71084
+596,23,H,Graduacao,Alugada,Pouco,Pouco,1442,24,1,0.7092
+504,24,H,Graduacao,Alugada,Pouco,Pouco,1207,24,1,0.70285
+205,38,M,Ensino Medio,De favor,Pouco,Pouco,10623,30,0,0.70284
+392,39,M,Ensino Medio,De favor,Pouco,Pouco,3249,36,0,0.69914
+292,44,H,Ensino Medio,De favor,Pouco,Pouco,6419,24,0,0.69727
+988,29,M,Ensino Medio,De favor,Pouco,Pouco,6579,24,0,0.69203
+585,20,H,Graduacao,Alugada,Pouco,Pouco,2039,18,1,0.68987
+341,26,H,Pos Graduacao,Alugada,Pouco,Pouco,3599,21,0,0.68826
+367,22,H,Graduacao,Alugada,Pouco,Pouco,3650,18,0,0.68728
+701,46,M,Graduacao,De favor,Pouco,Pouco,6331,48,1,0.68678
+887,23,M,Graduacao,Propria,Pouco,Moderado,15672,48,1,0.68478
+286,26,M,Graduacao,Propria,Pouco,Pouco,4788,48,0,0.68315
+194,21,M,Graduacao,Alugada,Moderado,Moderado,3031,45,1,0.68219
+466,29,H,Pos Graduacao,Alugada,Pouco,Pouco,1659,24,1,0.68175
+496,29,M,Ensino Medio,Alugada,Moderado,Moderado,9034,36,1,0.67945
+926,21,H,Graduacao,Alugada,Pouco,Pouco,1049,18,0,0.67943
+814,46,M,Graduacao,De favor,Pouco,Pouco,3931,48,1,0.67449
+618,21,H,Graduacao,Alugada,Moderado,Moderado,3441,30,1,0.6736
+831,23,H,Graduacao,Alugada,Pouco,Pouco,1216,18,1,0.66931
+141,30,H,Ensino Medio,Propria,Pouco,Moderado,4795,36,0,0.66902
+347,23,H,Ensino Medio,Alugada,Alto,Moderado,3758,24,0,0.66861
+761,24,H,Graduacao,Alugada,Pouco,Pouco,2124,18,1,0.66851
+63,25,M,Graduacao,Propria,Pouco,Moderado,14421,48,1,0.66737
+491,42,H,Ensino Medio,De favor,Pouco,Moderado,8318,27,1,0.66724
+593,20,H,Pos Graduacao,Alugada,Pouco,Moderado,2718,24,1,0.66553
+340,24,H,Graduacao,De favor,Pouco,Moderado,5743,24,0,0.66309
+475,26,H,Graduacao,Alugada,Pouco,Pouco,3114,18,1,0.66256
+7,35,M,Ensino Medio,Alugada,Pouco,Moderado,6948,36,0,0.66224
+727,25,H,Graduacao,Alugada,Pouco,Pouco,1882,18,1,0.66166
+528,31,M,Graduacao,Alugada,Pouco,Pouco,2302,36,1,0.66152
+3,45,M,Graduacao,De favor,Pouco,Pouco,7882,42,0,0.66051
+18,44,H,Ensino Medio,De favor,Pouco,Moderado,12579,24,1,0.65826
+116,30,H,Ensino Medio,Propria,Sem investimento,Pouco,7174,42,1,0.65642
+746,23,H,Graduacao,Alugada,Pouco,Pouco,2511,15,0,0.65589
+739,26,H,Pos Graduacao,Alugada,Moderado,Moderado,4280,30,1,0.65351
+43,24,M,Graduacao,Alugada,Moderado,Pouco,6187,30,0,0.65347
+381,38,H,Ensino Medio,De favor,Pouco,Moderado,12976,18,1,0.65337
+522,53,M,Graduacao,De favor,Pouco,Pouco,7119,48,1,0.65216
+552,34,M,Graduacao,Propria,Pouco,Pouco,6999,48,1,0.65027
+993,30,M,Ensino Medio,Propria,Pouco,Pouco,3959,36,0,0.64663
+616,27,M,Ensino Medio,De favor,Sem investimento,Alto,9157,60,0,0.64594
+155,20,H,Graduacao,Alugada,Pouco,Pouco,1282,12,1,0.64579
+322,34,M,Ensino Medio,De favor,Pouco,Pouco,2910,24,0,0.64523
+191,34,M,Pos Graduacao,De favor,Moderado,Moderado,3844,48,1,0.64494
+945,30,H,Graduacao,Propria,Alto,Moderado,8358,48,0,0.64431
+229,22,M,Graduacao,De favor,Pouco,Pouco,3149,24,0,0.6425
+639,26,M,Graduacao,Propria,Pouco,Pouco,4370,42,1,0.64046
+812,24,M,Graduacao,Propria,Pouco,Pouco,9629,36,1,0.6388
+985,25,H,Graduacao,Alugada,Pouco,Pouco,1433,15,0,0.63867
+731,21,M,Pos Graduacao,Alugada,Pouco,Pouco,1987,24,1,0.63783
+623,22,H,Graduacao,Alugada,Pouco,Pouco,1858,12,0,0.63741
+805,24,M,Graduacao,Propria,Pouco,Pouco,9271,36,1,0.63686
+818,43,M,Ensino Medio,Propria,Pouco,Pouco,15857,36,0,0.63629
+334,23,M,Graduacao,Alugada,Pouco,Pouco,4110,24,1,0.63428
+809,26,H,Ensino Medio,Alugada,Pouco,Moderado,1778,15,1,0.63334
+118,23,H,Graduacao,Propria,Alto,Pouco,4281,33,1,0.63282
+446,34,H,Graduacao,Propria,Pouco,Pouco,1842,36,1,0.63187
+95,58,M,Graduacao,Alugada,Pouco,Moderado,15945,54,1,0.63073
+789,27,M,Graduacao,Propria,Pouco,Pouco,5998,40,1,0.62956
+101,24,M,Graduacao,Alugada,Pouco,Moderado,2323,36,0,0.62757
+826,33,H,Graduacao,Alugada,Pouco,Pouco,3966,18,1,0.62707
+218,24,M,Pos Graduacao,Alugada,Pouco,Pouco,3021,24,0,0.62604
+395,32,M,Graduacao,Alugada,Moderado,Moderado,11760,39,0,0.62556
+905,20,M,Ensino Medio,Alugada,Pouco,Pouco,1107,12,0,0.62493
+728,59,H,Graduacao,Alugada,Pouco,Moderado,6416,48,1,0.62444
+501,42,M,Graduacao,De favor,Pouco,Pouco,5493,36,0,0.62322
+14,28,H,Graduacao,Alugada,Pouco,Pouco,1403,15,0,0.62101
+983,26,M,Graduacao,Propria,Pouco,Pouco,8229,36,1,0.61944
+869,24,H,Graduacao,Alugada,Pouco,Pouco,652,12,0,0.61909
+561,24,M,Pos Graduacao,Alugada,Pouco,Pouco,1546,24,1,0.61787
+640,27,H,Ensino Medio,Propria,Pouco,Pouco,750,18,1,0.614
+922,22,H,Graduacao,Alugada,Pouco,Pouco,1366,9,1,0.61348
+919,39,M,Ensino Medio,Alugada,Pouco,Pouco,3345,24,1,0.61066
+565,23,H,Graduacao,Alugada,Moderado,Moderado,1553,24,0,0.61038
+808,55,M,Ensino Medio,De favor,Pouco,Moderado,9283,42,0,0.60879
+47,23,H,Ensino Medio,Alugada,Alto,Pouco,1352,6,0,0.60488
+262,36,M,Ensino Medio,De favor,Pouco,Pouco,5302,18,0,0.60428
+706,24,M,Graduacao,Propria,Moderado,Moderado,6560,48,1,0.60226
+142,27,M,Ensino Medio,Propria,Pouco,Pouco,3416,27,0,0.59746
+951,24,M,Graduacao,Propria,Pouco,Pouco,2145,36,1,0.59721
+35,25,M,Pos Graduacao,Propria,Pouco,Moderado,4746,45,1,0.59705
+500,27,H,Graduacao,Propria,Pouco,Pouco,3123,24,1,0.59469
+131,29,M,Graduacao,Propria,Pouco,Pouco,6887,36,1,0.59399
+630,28,H,Graduacao,Propria,Pouco,Pouco,3660,24,0,0.5917
+148,28,M,Graduacao,Propria,Pouco,Pouco,5371,36,0,0.59141
+76,34,M,Graduacao,Propria,Pouco,Pouco,3965,42,1,0.59089
+802,24,H,Graduacao,Propria,Pouco,Pouco,4272,20,0,0.5902
+788,50,M,Graduacao,De favor,Pouco,Moderado,6224,48,1,0.5887
+273,28,M,Graduacao,Propria,Pouco,Moderado,3060,48,1,0.5875
+602,34,H,Pos Graduacao,De favor,Pouco,Moderado,1837,24,1,0.58667
+876,36,M,Ensino Medio,De favor,Pouco,Pouco,1940,18,0,0.5852
+840,29,M,Graduacao,Propria,Pouco,Pouco,5179,36,1,0.58425
+73,41,H,Pos Graduacao,Propria,Pouco,Moderado,5954,42,0,0.58286
+378,57,M,Ensino Medio,De favor,Pouco,Moderado,14318,36,1,0.58169
+153,29,H,Graduacao,Alugada,Alto,Moderado,7758,24,0,0.58133
+914,31,M,Graduacao,Alugada,Pouco,Pouco,3161,24,1,0.5813
+226,27,M,Graduacao,Propria,Alto,Moderado,10961,48,1,0.58097
+744,30,M,Ensino Medio,Propria,Sem investimento,Pouco,14179,39,0,0.57887
+583,33,M,Pos Graduacao,Alugada,Pouco,Moderado,2384,36,1,0.57771
+120,25,H,Graduacao,Propria,Pouco,Pouco,1835,21,1,0.5775
+655,22,M,Graduacao,De favor,Pouco,Pouco,3973,14,0,0.57537
+687,30,M,Graduacao,De favor,Moderado,Moderado,2862,36,0,0.57354
+815,54,H,Graduacao,Alugada,Pouco,Moderado,7432,36,0,0.57329
+252,24,H,Graduacao,Propria,Pouco,Moderado,2150,30,1,0.57266
+181,30,M,Ensino Medio,Propria,Pouco,Moderado,4455,36,1,0.5725
+878,27,M,Ensino Medio,De favor,Pouco,Pouco,1422,9,1,0.57089
+462,34,H,Ensino Medio,Alugada,Pouco,Moderado,3017,12,0,0.57079
+521,24,H,Graduacao,Propria,Pouco,Pouco,3190,18,1,0.56928
+952,28,H,Graduacao,Alugada,Alto,Moderado,4113,24,1,0.56645
+751,23,H,Pos Graduacao,Propria,Pouco,Pouco,976,18,1,0.56638
+777,25,H,Graduacao,Propria,Pouco,Pouco,3509,18,0,0.56499
+417,23,H,Graduacao,Alugada,Sem investimento,Pouco,8471,18,0,0.56428
+429,55,H,Ensino Medio,De favor,Pouco,Pouco,1190,18,1,0.56337
+29,63,M,Graduacao,Propria,Pouco,Pouco,6836,60,1,0.56292
+658,28,H,Graduacao,Propria,Pouco,Moderado,4221,30,0,0.56007
+315,31,M,Graduacao,Propria,Pouco,Pouco,2746,36,1,0.55796
+770,26,H,Graduacao,Alugada,Sem investimento,Pouco,2812,24,0,0.55757
+208,21,M,Pos Graduacao,Propria,Pouco,Pouco,6568,24,0,0.55633
+775,25,H,Graduacao,Alugada,Sem investimento,Pouco,1371,24,1,0.55536
+274,34,M,Pos Graduacao,Propria,Pouco,Pouco,11998,30,1,0.55232
+410,20,H,Graduacao,Propria,Pouco,Moderado,1967,24,0,0.55166
+999,27,M,Graduacao,Propria,Moderado,Moderado,4576,45,0,0.55046
+780,25,M,Graduacao,Propria,Pouco,Moderado,4933,39,1,0.55013
+573,22,H,Pos Graduacao,Propria,Pouco,Pouco,806,15,0,0.54924
+607,50,H,Graduacao,De favor,Moderado,Moderado,2671,36,1,0.54863
+145,30,M,Graduacao,Propria,Moderado,Moderado,3566,48,0,0.54841
+235,30,M,Ensino Medio,Propria,Pouco,Pouco,1823,24,1,0.54779
+707,25,H,Graduacao,Alugada,Pouco,Moderado,2969,12,1,0.54769
+866,27,H,Graduacao,Propria,Pouco,Pouco,2389,18,0,0.54612
+9,28,M,Ensino Medio,Propria,Pouco,Moderado,5234,30,1,0.54472
+172,34,H,Ensino Medio,Propria,Pouco,Moderado,2064,24,1,0.54418
+996,40,M,Ensino Medio,Propria,Pouco,Pouco,3857,30,0,0.54254
+862,35,H,Graduacao,Propria,Pouco,Pouco,2439,24,1,0.54168
+154,36,M,Ensino Medio,Alugada,Moderado,Moderado,6967,24,0,0.54122
+203,21,M,Graduacao,Alugada,Pouco,Pouco,902,12,1,0.54064
+911,25,H,Pos Graduacao,Propria,Pouco,Moderado,4736,24,1,0.54062
+320,28,M,Ensino Medio,Propria,Pouco,Moderado,4249,30,1,0.53895
+946,30,M,Graduacao,De favor,Alto,Pouco,3349,24,1,0.53812
+10,25,H,Graduacao,Alugada,Pouco,Moderado,1295,12,1,0.5379
+364,25,M,Ensino Medio,Propria,Pouco,Pouco,2473,18,1,0.5377
+319,27,H,Pos Graduacao,Propria,Pouco,Pouco,3643,15,0,0.53477
+850,33,M,Graduacao,Alugada,Pouco,Pouco,2235,20,1,0.53383
+853,32,M,Pos Graduacao,De favor,Pouco,Pouco,1442,18,1,0.53247
+431,29,M,Ensino Medio,Propria,Pouco,Moderado,11328,24,1,0.52917
+955,57,H,Ensino Medio,Alugada,Alto,Pouco,1231,24,0,0.52887
+353,28,M,Graduacao,Alugada,Pouco,Pouco,6199,12,1,0.52811
+15,32,H,Pos Graduacao,Propria,Moderado,Pouco,1282,24,1,0.52721
+396,55,H,Ensino Medio,De favor,Pouco,Pouco,2578,12,0,0.52659
+470,22,M,Graduacao,Alugada,Moderado,Moderado,3092,24,1,0.52659
+460,37,M,Graduacao,Propria,Pouco,Pouco,3620,36,0,0.52582
+87,47,M,Graduacao,De favor,Moderado,Moderado,12612,36,1,0.52515
+752,23,H,Pos Graduacao,Alugada,Moderado,Moderado,841,12,0,0.52131
+272,36,M,Ensino Medio,De favor,Sem investimento,Alto,12169,48,0,0.5212
+634,25,H,Pos Graduacao,Propria,Pouco,Moderado,1355,24,1,0.52079
+934,23,H,Graduacao,Propria,Pouco,Pouco,1498,12,0,0.52074
+858,29,H,Graduacao,Propria,Pouco,Pouco,3959,15,1,0.52034
+531,28,H,Graduacao,Alugada,Moderado,Moderado,2631,15,1,0.51938
+766,31,M,Pos Graduacao,Propria,Pouco,Pouco,3108,30,1,0.51891
+711,35,H,Graduacao,De favor,Pouco,Pouco,1198,6,1,0.51885
+391,19,H,Pos Graduacao,Alugada,Alto,Moderado,983,12,0,0.51798
+646,32,M,Graduacao,Propria,Pouco,Pouco,4583,30,0,0.51751
+722,24,H,Pos Graduacao,Propria,Pouco,Pouco,1228,12,1,0.51673
+425,21,M,Graduacao,Alugada,Pouco,Moderado,2779,18,0,0.51607
+301,42,H,Graduacao,Propria,Pouco,Moderado,3804,36,1,0.5156
+51,30,M,Ensino Medio,Propria,Pouco,Moderado,5965,27,0,0.51399
+944,46,H,Graduacao,Alugada,Pouco,Pouco,1845,15,0,0.51348
+548,24,H,Pos Graduacao,Propria,Pouco,Pouco,626,12,1,0.51319
+755,32,H,Graduacao,Alugada,Sem investimento,Pouco,1285,24,1,0.5113
+930,24,M,Pos Graduacao,Propria,Pouco,Pouco,1747,24,0,0.50941
+482,57,H,Graduacao,Alugada,Alto,Pouco,3622,30,0,0.50882
+813,54,M,Graduacao,Propria,Pouco,Pouco,3051,48,1,0.50671
+257,29,M,Graduacao,De favor,Pouco,Pouco,2149,12,1,0.50634
+545,43,M,Graduacao,De favor,Pouco,Pouco,1333,24,1,0.50451
+704,32,H,Graduacao,Propria,Pouco,Moderado,2528,27,0,0.50273
+578,27,M,Graduacao,Propria,Pouco,Moderado,2820,36,1,0.50271
+612,29,H,Graduacao,Propria,Alto,Pouco,3357,21,0,0.50257
+166,33,H,Graduacao,Propria,Pouco,Pouco,1131,18,1,0.50131
+31,27,M,Graduacao,Propria,Pouco,Pouco,4020,24,0,0.5002
+369,40,H,Graduacao,Alugada,Pouco,Moderado,3001,18,0,0.49948
+558,27,M,Graduacao,Propria,Pouco,Pouco,3552,24,1,0.49745
+112,28,M,Pos Graduacao,Alugada,Pouco,Moderado,6260,18,0,0.49663
+822,41,M,Graduacao,Propria,Pouco,Pouco,2712,36,1,0.49548
+432,36,M,Ensino Medio,De favor,Pouco,Pouco,1872,6,0,0.49509
+129,29,H,Graduacao,Propria,Pouco,Pouco,3499,12,1,0.49501
+338,28,M,Graduacao,Propria,Pouco,Pouco,4169,24,0,0.49483
+79,22,M,Graduacao,Propria,Pouco,Moderado,3832,30,0,0.49467
+368,42,M,Graduacao,Propria,Pouco,Pouco,3446,36,1,0.49355
+337,24,H,Graduacao,Alugada,Sem investimento,Pouco,1275,15,1,0.49337
+197,27,H,Graduacao,Alugada,Moderado,Moderado,951,12,1,0.49312
+890,43,M,Ensino Medio,Propria,Pouco,Pouco,2442,27,0,0.49291
+684,31,M,Pos Graduacao,Propria,Moderado,Moderado,9857,36,0,0.49264
+610,22,H,Graduacao,Propria,Moderado,Pouco,741,12,1,0.49222
+644,32,M,Ensino Medio,Propria,Pouco,Pouco,1880,18,0,0.49049
+653,42,M,Ensino Medio,Propria,Moderado,Moderado,8086,36,1,0.48902
+170,33,M,Graduacao,Alugada,Pouco,Pouco,950,15,1,0.48859
+954,29,H,Graduacao,Propria,Pouco,Pouco,1893,12,0,0.48555
+959,30,M,Graduacao,De favor,Moderado,Moderado,3069,24,0,0.48475
+62,61,M,Ensino Medio,De favor,Pouco,Moderado,1953,36,1,0.4846
+935,30,M,Ensino Medio,Propria,Moderado,Moderado,1919,30,1,0.48249
+174,26,M,Graduacao,Propria,Pouco,Pouco,3414,21,1,0.48026
+454,31,M,Graduacao,Propria,Pouco,Pouco,4817,24,1,0.47989
+441,30,H,Graduacao,Propria,Pouco,Pouco,1620,12,0,0.4777
+143,22,M,Graduacao,Propria,Pouco,Pouco,2462,18,1,0.47704
+221,23,H,Graduacao,Alugada,Sem investimento,Pouco,1200,12,0,0.47656
+893,34,M,Graduacao,Propria,Pouco,Moderado,5800,36,0,0.47649
+457,35,M,Graduacao,De favor,Pouco,Pouco,3386,12,1,0.47611
+130,24,H,Graduacao,Propria,Sem investimento,Alto,8487,48,0,0.47588
+88,30,M,Ensino Medio,Propria,Moderado,Pouco,2249,18,0,0.47487
+438,65,M,Ensino Medio,Propria,Pouco,Pouco,3394,42,0,0.47412
+105,39,M,Ensino Medio,Propria,Pouco,Moderado,11938,24,1,0.47028
+227,53,M,Ensino Medio,De favor,Pouco,Pouco,7865,12,1,0.46937
+471,23,H,Graduacao,Propria,Pouco,Pouco,448,6,1,0.46933
+530,32,M,Graduacao,Propria,Pouco,Moderado,2273,36,0,0.46825
+524,26,H,Pos Graduacao,Propria,Pouco,Moderado,1113,18,0,0.46789
+333,24,H,Pos Graduacao,Alugada,Moderado,Sem conta,11590,48,1,0.46534
+605,22,M,Graduacao,Propria,Alto,Pouco,2828,24,0,0.46501
+513,20,M,Graduacao,Alugada,Pouco,Moderado,585,12,0,0.4642
+743,22,M,Graduacao,Propria,Alto,Pouco,2483,24,0,0.46299
+4,53,M,Graduacao,De favor,Pouco,Pouco,4870,24,1,0.46287
+397,46,M,Graduacao,Propria,Pouco,Pouco,2348,36,0,0.46214
+239,39,M,Graduacao,Propria,Pouco,Pouco,2522,30,0,0.46167
+872,26,M,Graduacao,Propria,Moderado,Pouco,1382,24,0,0.46068
+86,27,H,Graduacao,Propria,Pouco,Moderado,1295,18,0,0.45893
+456,36,M,Graduacao,Alugada,Pouco,Pouco,3905,11,0,0.45715
+828,47,M,Graduacao,De favor,Sem investimento,Pouco,8335,36,1,0.45703
+321,32,M,Graduacao,Propria,Pouco,Pouco,1938,24,1,0.45678
+310,40,M,Ensino Medio,De favor,Sem investimento,Alto,5381,48,0,0.45632
+480,23,H,Pos Graduacao,Propria,Pouco,Moderado,3573,12,0,0.45594
+336,23,H,Pos Graduacao,Propria,Pouco,Moderado,2101,13,0,0.45483
+111,23,H,Graduacao,Alugada,Pouco,Alto,392,15,0,0.45185
+58,23,H,Ensino Medio,Propria,Pouco,Alto,1961,18,0,0.45126
+540,23,M,Graduacao,Alugada,Pouco,Moderado,1534,12,1,0.45112
+134,21,H,Graduacao,Propria,Moderado,Sem conta,10144,60,0,0.45051
+108,30,H,Graduacao,Propria,Sem investimento,Pouco,7721,24,0,0.44998
+12,22,H,Graduacao,Propria,Pouco,Moderado,1567,12,0,0.44664
+801,48,H,Pos Graduacao,Alugada,Pouco,Moderado,1795,18,0,0.44638
+335,44,M,Ensino Medio,Alugada,Pouco,Pouco,3384,6,1,0.44587
+819,26,M,Graduacao,Propria,Pouco,Pouco,1345,18,1,0.44565
+825,30,M,Graduacao,Propria,Pouco,Pouco,1602,21,0,0.44479
+937,30,M,Ensino Medio,Alugada,Pouco,Moderado,2063,6,0,0.44469
+255,27,M,Pos Graduacao,Propria,Sem investimento,Alto,7418,60,0,0.44448
+458,27,H,Graduacao,Propria,Pouco,Pouco,343,6,0,0.44389
+98,36,M,Graduacao,Propria,Pouco,Moderado,2337,36,0,0.44381
+900,43,M,Graduacao,Alugada,Pouco,Pouco,2625,16,1,0.4437
+117,27,H,Graduacao,Alugada,Sem investimento,Pouco,2132,10,0,0.44219
+494,39,M,Pos Graduacao,Alugada,Pouco,Pouco,2122,12,0,0.43946
+405,22,M,Graduacao,Propria,Pouco,Moderado,2039,24,1,0.43914
+525,30,M,Graduacao,Propria,Pouco,Moderado,7966,26,0,0.4391
+747,37,H,Pos Graduacao,Propria,Pouco,Pouco,1274,12,1,0.43605
+586,36,M,Graduacao,Alugada,Pouco,Pouco,2799,9,0,0.4358
+587,21,M,Pos Graduacao,Propria,Pouco,Pouco,1289,12,0,0.4353
+721,24,H,Graduacao,Alugada,Alto,Moderado,433,6,1,0.43475
+342,25,M,Graduacao,Alugada,Alto,Moderado,3213,18,0,0.43449
+189,33,H,Graduacao,Propria,Pouco,Moderado,3244,18,0,0.43319
+768,28,M,Graduacao,Alugada,Pouco,Moderado,3617,12,0,0.43238
+54,57,M,Graduacao,De favor,Pouco,Moderado,2225,36,1,0.43219
+355,23,M,Pos Graduacao,Propria,Pouco,Moderado,1246,24,1,0.43216
+309,22,M,Pos Graduacao,Alugada,Pouco,Moderado,276,9,0,0.43144
+691,25,H,Pos Graduacao,Propria,Moderado,Moderado,2631,15,0,0.43054
+979,25,M,Graduacao,Alugada,Moderado,Moderado,1264,15,1,0.42965
+992,23,M,Pos Graduacao,Alugada,Sem investimento,Pouco,1936,18,0,0.42953
+740,32,M,Graduacao,Propria,Moderado,Pouco,2325,24,0,0.42911
+393,31,H,Graduacao,Propria,Pouco,Pouco,1957,6,0,0.42863
+556,28,H,Graduacao,Propria,Moderado,Moderado,2278,18,1,0.42854
+195,34,H,Ensino Medio,Propria,Pouco,Moderado,1501,9,1,0.42829
+17,25,M,Graduacao,Propria,Sem investimento,Pouco,8072,30,0,0.428
+690,25,M,Graduacao,Propria,Pouco,Pouco,975,15,0,0.42739
+668,43,M,Graduacao,Alugada,Pouco,Pouco,4843,12,1,0.42687
+216,31,M,Graduacao,Propria,Pouco,Pouco,3104,18,0,0.42509
+649,40,M,Pos Graduacao,Alugada,Pouco,Pouco,684,12,1,0.42501
+931,22,H,Graduacao,Propria,Pouco,Moderado,1670,9,1,0.42498
+152,24,M,Graduacao,Propria,Pouco,Alto,5848,36,0,0.4238
+576,27,H,Graduacao,Propria,Pouco,Moderado,2930,12,0,0.42379
+918,33,M,Graduacao,Propria,Moderado,Pouco,2359,24,1,0.42318
+74,40,M,Ensino Medio,Propria,Sem investimento,Pouco,1977,36,1,0.42311
+762,24,M,Pos Graduacao,Propria,Pouco,Pouco,2214,12,0,0.42225
+958,45,M,Pos Graduacao,Propria,Pouco,Pouco,4006,28,1,0.42219
+268,45,M,Ensino Medio,Propria,Pouco,Pouco,8978,14,1,0.42146
+343,33,M,Ensino Medio,Propria,Pouco,Moderado,4439,18,0,0.41905
+217,23,M,Graduacao,Propria,Pouco,Alto,3913,36,0,0.41878
+982,28,H,Ensino Medio,Propria,Moderado,Alto,2923,21,0,0.41855
+240,29,H,Graduacao,Propria,Sem investimento,Pouco,915,24,1,0.41676
+330,75,M,Ensino Medio,De favor,Pouco,Pouco,6615,24,0,0.41572
+407,27,M,Graduacao,Propria,Pouco,Pouco,1053,15,0,0.41563
+986,33,M,Graduacao,Propria,Pouco,Alto,6289,42,0,0.41559
+72,51,M,Ensino Medio,De favor,Pouco,Pouco,1164,8,0,0.41308
+637,21,M,Graduacao,Propria,Pouco,Sem conta,15653,60,0,0.41308
+261,55,H,Graduacao,Propria,Pouco,Pouco,1603,24,0,0.41267
+617,37,M,Graduacao,Alugada,Pouco,Pouco,3676,6,0,0.41263
+923,30,M,Graduacao,Alugada,Pouco,Moderado,2002,12,0,0.4109
+537,37,H,Graduacao,Propria,Pouco,Moderado,3612,18,0,0.4109
+783,23,H,Pos Graduacao,Propria,Moderado,Moderado,836,12,1,0.41036
+481,26,M,Graduacao,Propria,Pouco,Moderado,1201,24,0,0.40988
+312,26,H,Graduacao,Propria,Pouco,Alto,3749,24,0,0.40971
+735,29,H,Ensino Medio,Propria,Sem investimento,Alto,3990,36,0,0.40805
+790,39,H,Graduacao,Propria,Pouco,Moderado,1188,21,1,0.40688
+188,20,M,Graduacao,Propria,Moderado,Pouco,674,12,1,0.4046
+708,25,H,Graduacao,Propria,Pouco,Moderado,1206,9,0,0.40411
+966,23,M,Pos Graduacao,Propria,Alto,Moderado,2520,27,1,0.4036
+308,24,H,Graduacao,Propria,Pouco,Moderado,1237,8,1,0.40305
+745,28,M,Pos Graduacao,Propria,Pouco,Pouco,1797,13,0,0.40293
+230,26,M,Graduacao,Propria,Pouco,Alto,4210,36,1,0.40231
+874,29,M,Pos Graduacao,Propria,Pouco,Pouco,3590,12,0,0.39982
+83,58,H,Pos Graduacao,Propria,Pouco,Pouco,1755,24,0,0.39913
+829,38,M,Graduacao,De favor,Sem investimento,Alto,6681,48,0,0.39837
+510,26,M,Graduacao,Propria,Pouco,Pouco,759,12,1,0.39815
+201,27,M,Pos Graduacao,Propria,Pouco,Pouco,1168,12,0,0.39814
+260,27,M,Graduacao,Propria,Pouco,Pouco,1657,12,0,0.39723
+730,33,M,Graduacao,Propria,Pouco,Moderado,6403,24,0,0.39722
+620,27,M,Graduacao,Propria,Pouco,Moderado,3652,21,0,0.39597
+167,20,H,Graduacao,Propria,Alto,Moderado,1577,11,0,0.39361
+387,40,M,Ensino Medio,Propria,Pouco,Moderado,7374,18,0,0.3935
+804,24,H,Ensino Medio,Alugada,Sem investimento,Alto,7472,12,0,0.39135
+434,25,M,Graduacao,Propria,Pouco,Pouco,2136,9,0,0.39025
+212,50,M,Graduacao,Propria,Pouco,Pouco,5293,27,1,0.38839
+713,25,M,Pos Graduacao,Propria,Pouco,Pouco,1138,9,0,0.3883
+89,28,M,Graduacao,Propria,Pouco,Pouco,1108,12,1,0.38818
+192,36,M,Graduacao,Propria,Pouco,Moderado,3915,27,1,0.38694
+495,20,M,Graduacao,Propria,Sem investimento,Pouco,2996,24,1,0.38566
+515,37,H,Graduacao,Propria,Pouco,Pouco,609,6,0,0.38478
+293,56,M,Graduacao,De favor,Pouco,Alto,4796,42,0,0.38446
+169,31,M,Graduacao,Propria,Pouco,Moderado,1935,24,1,0.38408
+675,26,H,Ensino Medio,Alugada,Pouco,Sem conta,4530,30,0,0.38349
+517,23,H,Graduacao,Alugada,Pouco,Sem conta,7127,36,1,0.38339
+414,35,H,Graduacao,Propria,Sem investimento,Pouco,1381,24,1,0.38338
+323,28,M,Graduacao,Propria,Alto,Pouco,2659,18,0,0.38334
+737,35,M,Pos Graduacao,Propria,Moderado,Pouco,4380,18,0,0.38274
+542,31,M,Graduacao,Propria,Sem investimento,Pouco,6350,30,1,0.38209
+125,30,M,Graduacao,Propria,Pouco,Pouco,2121,12,0,0.38198
+439,26,H,Ensino Medio,Propria,Pouco,Alto,609,12,1,0.38141
+652,45,M,Graduacao,Propria,Pouco,Pouco,2303,24,1,0.3799
+351,29,H,Graduacao,Propria,Pouco,Moderado,959,9,1,0.37889
+678,64,M,Pos Graduacao,Alugada,Pouco,Pouco,2384,24,0,0.37743
+981,33,M,Ensino Medio,Alugada,Pouco,Sem conta,4844,48,1,0.37686
+199,40,M,Ensino Medio,Propria,Pouco,Moderado,4297,18,1,0.37634
+507,34,M,Ensino Medio,Propria,Moderado,Moderado,6850,15,1,0.37596
+233,25,M,Pos Graduacao,Propria,Pouco,Moderado,866,18,0,0.37446
+146,39,H,Graduacao,Propria,Pouco,Pouco,860,6,0,0.37439
+328,31,M,Graduacao,Propria,Pouco,Alto,4473,36,0,0.37409
+601,30,H,Graduacao,Propria,Pouco,Moderado,918,9,1,0.3728
+692,29,M,Graduacao,Propria,Moderado,Moderado,2896,24,0,0.37264
+950,40,M,Ensino Medio,Propria,Pouco,Moderado,3590,18,0,0.37243
+22,48,M,Pos Graduacao,Alugada,Pouco,Pouco,2241,10,0,0.37143
+442,29,M,Graduacao,Propria,Pouco,Moderado,2629,20,0,0.37131
+597,36,M,Pos Graduacao,Propria,Pouco,Moderado,4241,24,1,0.37105
+416,33,M,Pos Graduacao,Propria,Pouco,Pouco,2579,12,1,0.37049
+472,28,M,Pos Graduacao,Propria,Pouco,Pouco,654,9,1,0.36798
+461,36,M,Graduacao,Propria,Pouco,Pouco,1721,15,0,0.36583
+899,42,M,Graduacao,Propria,Pouco,Pouco,4153,18,1,0.3653
+666,34,M,Graduacao,Propria,Alto,Moderado,3496,30,0,0.36182
+103,35,M,Graduacao,Alugada,Pouco,Moderado,1919,9,0,0.35943
+702,47,H,Graduacao,De favor,Moderado,Alto,1377,24,0,0.35735
+953,26,H,Ensino Medio,Propria,Pouco,Sem conta,10974,36,1,0.35676
+980,49,M,Graduacao,Propria,Pouco,Moderado,8386,30,1,0.35674
+128,34,M,Ensino Medio,Propria,Pouco,Moderado,1860,12,0,0.35583
+289,48,M,Graduacao,Propria,Pouco,Pouco,1024,24,1,0.35545
+75,66,M,Ensino Medio,De favor,Pouco,Pouco,1526,12,0,0.35497
+563,37,M,Graduacao,De favor,Sem investimento,Alto,12389,36,1,0.35093
+719,31,M,Graduacao,Propria,Moderado,Moderado,6148,20,0,0.35091
+512,26,M,Graduacao,Alugada,Pouco,Alto,2687,15,0,0.35026
+535,33,M,Graduacao,Alugada,Pouco,Alto,2319,21,1,0.34964
+906,24,M,Pos Graduacao,Propria,Sem investimento,Pouco,3763,21,0,0.34914
+555,22,M,Graduacao,Propria,Pouco,Moderado,1331,12,1,0.34898
+346,23,M,Graduacao,Propria,Pouco,Moderado,882,13,0,0.34775
+834,25,H,Pos Graduacao,Propria,Pouco,Alto,2327,15,1,0.34752
+924,55,M,Graduacao,Propria,Pouco,Pouco,6872,24,1,0.34694
+559,31,M,Pos Graduacao,Propria,Pouco,Moderado,1928,18,1,0.34565
+34,33,H,Ensino Medio,Propria,Pouco,Alto,1474,12,0,0.34563
+759,35,M,Graduacao,Propria,Pouco,Pouco,691,12,1,0.34526
+566,36,M,Graduacao,Propria,Pouco,Pouco,1372,12,1,0.34323
+580,30,M,Graduacao,Propria,Pouco,Moderado,1056,18,1,0.3432
+703,41,M,Graduacao,Propria,Moderado,Moderado,2503,30,0,0.34315
+970,22,M,Graduacao,Propria,Moderado,Moderado,1514,15,0,0.343
+648,38,M,Graduacao,De favor,Pouco,Alto,947,24,1,0.34203
+32,30,M,Graduacao,Propria,Moderado,Moderado,5866,18,0,0.34141
+631,44,M,Graduacao,Propria,Pouco,Pouco,1553,18,1,0.33991
+892,38,M,Pos Graduacao,Propria,Pouco,Pouco,2171,12,0,0.33966
+660,23,M,Graduacao,Alugada,Pouco,Alto,1297,12,0,0.33936
+699,40,M,Ensino Medio,Alugada,Pouco,Alto,1905,15,0,0.33876
+498,32,M,Pos Graduacao,Propria,Pouco,Moderado,1301,18,0,0.33671
+672,42,M,Ensino Medio,Propria,Pouco,Sem conta,10366,60,0,0.3355
+624,65,M,Graduacao,De favor,Pouco,Pouco,2600,18,1,0.33546
+885,53,H,Graduacao,Propria,Pouco,Pouco,795,12,1,0.33534
+594,40,M,Ensino Medio,Propria,Sem investimento,Pouco,1358,24,1,0.33475
+307,33,M,Pos Graduacao,Propria,Moderado,Pouco,727,12,1,0.33292
+615,48,M,Ensino Medio,Propria,Sem investimento,Alto,12204,48,0,0.33284
+284,37,M,Graduacao,Propria,Moderado,Moderado,3878,24,0,0.33228
+313,25,M,Pos Graduacao,Propria,Pouco,Moderado,685,12,1,0.33215
+316,38,M,Pos Graduacao,Propria,Pouco,Pouco,708,12,0,0.33197
+741,23,M,Pos Graduacao,Propria,Pouco,Moderado,1048,10,0,0.33176
+969,40,M,Pos Graduacao,Propria,Pouco,Pouco,3939,11,0,0.33106
+36,31,M,Graduacao,De favor,Pouco,Sem conta,6110,48,0,0.33013
+689,31,M,Graduacao,Propria,Alto,Pouco,3651,12,0,0.33001
+477,25,M,Graduacao,Propria,Pouco,Alto,5152,24,0,0.32942
+560,49,M,Graduacao,De favor,Sem investimento,Pouco,2964,24,0,0.32937
+474,33,M,Graduacao,Propria,Pouco,Moderado,1245,18,1,0.32747
+207,26,M,Graduacao,Propria,Pouco,Moderado,1424,12,0,0.32708
+884,43,M,Graduacao,Propria,Pouco,Moderado,4057,24,1,0.32684
+186,74,H,Ensino Medio,De favor,Pouco,Moderado,5129,9,1,0.32668
+220,26,M,Pos Graduacao,Propria,Pouco,Moderado,625,12,0,0.32631
+349,32,M,Graduacao,De favor,Alto,Moderado,1136,9,1,0.32607
+588,47,M,Pos Graduacao,Propria,Pouco,Pouco,1217,18,1,0.3249
+158,38,M,Graduacao,Propria,Moderado,Moderado,3512,24,0,0.32486
+250,39,H,Pos Graduacao,Propria,Alto,Pouco,666,6,0,0.32286
+667,27,H,Graduacao,Propria,Pouco,Sem conta,3609,48,0,0.32222
+126,40,M,Pos Graduacao,Propria,Pouco,Pouco,701,12,0,0.32094
+479,44,M,Graduacao,Propria,Pouco,Pouco,1478,15,0,0.31951
+139,44,H,Pos Graduacao,Alugada,Pouco,Alto,1881,12,0,0.31892
+107,32,M,Graduacao,Propria,Pouco,Moderado,6078,12,0,0.31824
+595,32,H,Pos Graduacao,Propria,Moderado,Moderado,931,6,1,0.31724
+176,42,M,Graduacao,Propria,Pouco,Pouco,2577,12,0,0.31634
+604,23,H,Graduacao,Propria,Pouco,Alto,1275,10,0,0.31628
+750,49,H,Graduacao,Propria,Pouco,Pouco,428,6,0,0.31566
+398,46,M,Graduacao,Alugada,Pouco,Moderado,1223,12,1,0.31456
+325,39,M,Pos Graduacao,Propria,Pouco,Pouco,3398,8,0,0.31397
+124,27,H,Graduacao,Alugada,Sem investimento,Alto,1924,18,1,0.31345
+39,24,M,Graduacao,Propria,Pouco,Moderado,458,9,0,0.31331
+503,38,M,Graduacao,Propria,Moderado,Moderado,1216,24,1,0.31311
+21,44,M,Graduacao,Alugada,Alto,Pouco,2647,6,0,0.31206
+93,20,M,Graduacao,Alugada,Sem investimento,Alto,3617,24,0,0.31181
+912,25,H,Graduacao,Propria,Sem investimento,Alto,2991,30,0,0.31124
+659,41,M,Graduacao,Propria,Pouco,Moderado,6361,18,0,0.31018
+184,36,M,Graduacao,Propria,Pouco,Moderado,884,18,1,0.30934
+590,58,H,Pos Graduacao,Propria,Pouco,Pouco,385,12,0,0.30927
+696,29,M,Graduacao,Propria,Pouco,Moderado,1103,12,0,0.30917
+724,21,H,Graduacao,Alugada,Pouco,Sem conta,2570,27,1,0.30914
+299,32,M,Graduacao,Propria,Alto,Moderado,2745,21,0,0.30858
+929,43,M,Pos Graduacao,Propria,Pouco,Pouco,1344,12,0,0.30802
+964,22,M,Pos Graduacao,Propria,Pouco,Moderado,454,6,0,0.3079
+511,32,M,Ensino Medio,De favor,Pouco,Sem conta,4686,36,0,0.30777
+248,26,M,Graduacao,Propria,Pouco,Alto,1925,24,0,0.3075
+25,36,M,Pos Graduacao,Propria,Pouco,Pouco,1374,6,0,0.3069
+663,35,M,Ensino Medio,Propria,Pouco,Moderado,1050,6,0,0.30604
+603,28,H,Ensino Medio,Propria,Pouco,Sem conta,3349,36,1,0.30595
+574,27,M,Pos Graduacao,Propria,Pouco,Moderado,1082,9,0,0.30371
+782,31,M,Pos Graduacao,Propria,Pouco,Moderado,1410,12,0,0.30333
+97,34,M,Graduacao,Propria,Moderado,Moderado,2622,18,0,0.3029
+796,51,M,Graduacao,De favor,Sem investimento,Pouco,7511,18,1,0.30258
+60,27,M,Graduacao,Propria,Pouco,Moderado,1391,9,0,0.30201
+127,30,M,Graduacao,Propria,Pouco,Moderado,639,12,1,0.30154
+965,26,H,Graduacao,Propria,Sem investimento,Alto,1715,30,0,0.29956
+553,27,M,Graduacao,Propria,Moderado,Moderado,1995,12,0,0.29854
+810,26,M,Graduacao,Propria,Pouco,Moderado,907,8,0,0.29853
+114,35,M,Graduacao,Propria,Alto,Pouco,1680,12,0,0.29846
+187,68,M,Ensino Medio,De favor,Pouco,Moderado,1175,16,0,0.29761
+42,44,M,Pos Graduacao,Propria,Pouco,Moderado,6204,18,0,0.29677
+67,22,M,Graduacao,Propria,Alto,Moderado,1007,12,0,0.29543
+119,36,M,Ensino Medio,Propria,Alto,Moderado,2366,12,0,0.29533
+388,27,M,Graduacao,Propria,Alto,Moderado,2326,15,0,0.2947
+13,60,M,Pos Graduacao,Propria,Pouco,Pouco,1199,24,1,0.29402
+157,45,M,Pos Graduacao,Propria,Pouco,Pouco,339,12,0,0.29254
+989,48,M,Pos Graduacao,Propria,Pouco,Moderado,1743,24,0,0.29177
+732,44,H,Pos Graduacao,Propria,Pouco,Moderado,760,8,0,0.2913
+339,31,M,Pos Graduacao,Propria,Pouco,Moderado,1521,10,0,0.29126
+288,49,H,Graduacao,Propria,Pouco,Moderado,1092,12,0,0.28886
+806,26,M,Pos Graduacao,Propria,Pouco,Moderado,590,6,0,0.28765
+99,36,M,Ensino Medio,Alugada,Sem investimento,Alto,7057,20,0,0.28621
+925,46,M,Graduacao,Propria,Pouco,Pouco,697,12,1,0.28598
+516,40,M,Pos Graduacao,Propria,Pouco,Pouco,1361,6,0,0.28597
+641,38,M,Pos Graduacao,Propria,Pouco,Moderado,1308,15,0,0.28527
+265,37,M,Graduacao,Propria,Pouco,Moderado,802,15,1,0.28481
+600,45,H,Graduacao,Propria,Pouco,Moderado,2329,7,0,0.28442
+936,28,H,Pos Graduacao,Propria,Pouco,Alto,745,9,1,0.28427
+838,63,M,Graduacao,Propria,Pouco,Pouco,2957,24,0,0.28396
+465,63,M,Graduacao,Propria,Pouco,Pouco,2924,24,0,0.2838
+793,51,M,Graduacao,De favor,Pouco,Alto,2892,24,0,0.28218
+875,40,H,Graduacao,Propria,Alto,Moderado,1322,11,0,0.28119
+163,70,M,Ensino Medio,De favor,Pouco,Moderado,7308,10,0,0.27982
+237,61,M,Pos Graduacao,Alugada,Moderado,Moderado,2767,21,1,0.27846
+661,23,M,Graduacao,Propria,Sem investimento,Pouco,900,12,1,0.27844
+961,47,M,Graduacao,Propria,Pouco,Moderado,2353,21,0,0.27823
+113,25,H,Graduacao,Propria,Pouco,Sem conta,7855,36,1,0.27774
+835,48,M,Graduacao,Propria,Pouco,Pouco,1082,12,1,0.27769
+529,41,M,Pos Graduacao,Propria,Pouco,Pouco,662,6,0,0.27758
+811,28,M,Pos Graduacao,Propria,Pouco,Moderado,484,6,0,0.27701
+329,28,M,Graduacao,Propria,Pouco,Moderado,1068,6,0,0.2767
+168,25,H,Graduacao,Alugada,Pouco,Sem conta,3972,24,0,0.27654
+41,26,M,Graduacao,Propria,Alto,Moderado,1158,12,0,0.27574
+651,37,M,Pos Graduacao,Propria,Pouco,Moderado,1922,12,1,0.27497
+785,35,M,Pos Graduacao,Propria,Alto,Moderado,1941,18,0,0.27369
+591,42,H,Graduacao,Alugada,Sem investimento,Alto,1965,24,0,0.27343
+917,68,M,Ensino Medio,Propria,Pouco,Pouco,14896,6,1,0.27008
+27,42,H,Graduacao,Alugada,Alto,Alto,409,12,0,0.26959
+627,29,M,Graduacao,Propria,Moderado,Moderado,1437,9,1,0.26737
+362,36,H,Graduacao,Propria,Pouco,Alto,2247,12,0,0.26641
+30,36,M,Graduacao,Propria,Alto,Moderado,1913,18,0,0.26561
+173,33,M,Graduacao,Propria,Pouco,Moderado,1414,8,0,0.26552
+611,48,H,Pos Graduacao,De favor,Moderado,Alto,1240,10,1,0.26457
+539,45,H,Pos Graduacao,Propria,Pouco,Alto,3049,18,0,0.26449
+685,34,M,Graduacao,De favor,Sem investimento,Sem conta,6527,60,0,0.26346
+568,41,M,Graduacao,Propria,Sem investimento,Alto,3979,48,0,0.26274
+303,49,M,Graduacao,Propria,Pouco,Pouco,1038,10,0,0.26069
+823,47,M,Pos Graduacao,Propria,Pouco,Pouco,731,8,0,0.26026
+121,41,H,Ensino Medio,Alugada,Pouco,Sem conta,3868,24,0,0.25986
+28,34,M,Graduacao,Propria,Pouco,Moderado,2415,7,0,0.2594
+907,27,M,Graduacao,Propria,Sem investimento,Alto,3711,36,0,0.25922
+709,37,M,Pos Graduacao,Propria,Pouco,Moderado,2118,9,0,0.25817
+562,29,H,Graduacao,Propria,Pouco,Alto,683,6,0,0.25813
+765,40,M,Pos Graduacao,Propria,Pouco,Moderado,1155,12,0,0.2568
+57,31,H,Graduacao,Propria,Pouco,Sem conta,9566,36,0,0.25626
+447,35,M,Graduacao,Propria,Pouco,Moderado,2576,7,0,0.25534
+84,52,M,Pos Graduacao,Propria,Pouco,Pouco,2315,10,0,0.25502
+182,40,M,Pos Graduacao,Propria,Sem investimento,Pouco,1647,21,1,0.25484
+70,30,H,Graduacao,Propria,Pouco,Sem conta,8133,36,0,0.2546
+957,37,M,Pos Graduacao,Propria,Pouco,Moderado,1154,9,0,0.25385
+380,39,M,Graduacao,Propria,Sem investimento,Pouco,2212,20,0,0.25348
+656,41,M,Pos Graduacao,Propria,Pouco,Moderado,888,12,1,0.25087
+821,24,M,Graduacao,Propria,Pouco,Alto,3016,12,0,0.25006
+91,54,M,Graduacao,Propria,Pouco,Pouco,1409,12,0,0.25005
+921,37,M,Ensino Medio,Propria,Alto,Sem conta,12749,48,0,0.24929
+779,67,H,Graduacao,Propria,Pouco,Moderado,3872,18,0,0.24886
+485,47,M,Ensino Medio,Propria,Pouco,Moderado,1209,6,1,0.24691
+554,67,H,Ensino Medio,Propria,Pouco,Moderado,1199,9,0,0.24573
+179,65,M,Graduacao,Propria,Pouco,Pouco,571,21,0,0.2457
+109,35,M,Graduacao,Propria,Alto,Moderado,1410,14,0,0.24517
+669,47,M,Graduacao,Propria,Pouco,Alto,3017,30,0,0.24409
+518,43,M,Graduacao,Propria,Moderado,Pouco,1203,6,0,0.24409
+357,26,M,Ensino Medio,Propria,Pouco,Sem conta,4463,36,1,0.24112
+110,31,M,Graduacao,Propria,Moderado,Moderado,1449,6,0,0.2408
+249,22,H,Graduacao,Alugada,Pouco,Sem conta,433,18,1,0.24028
+543,34,M,Pos Graduacao,Propria,Pouco,Alto,2864,18,1,0.23946
+720,34,M,Ensino Medio,Propria,Pouco,Alto,1337,9,1,0.23852
+478,39,M,Pos Graduacao,Propria,Moderado,Moderado,1037,12,0,0.23835
+156,48,M,Graduacao,Propria,Moderado,Pouco,1288,9,0,0.23813
+849,57,M,Pos Graduacao,Propria,Pouco,Pouco,709,12,1,0.23603
+304,44,M,Graduacao,De favor,Alto,Sem conta,10127,48,1,0.23573
+198,36,M,Graduacao,De favor,Sem investimento,Alto,2760,24,0,0.23524
+753,25,H,Graduacao,Propria,Pouco,Sem conta,5771,30,0,0.234
+383,26,M,Graduacao,Propria,Pouco,Alto,1330,12,0,0.23361
+468,26,H,Graduacao,Propria,Pouco,Sem conta,2764,33,0,0.23305
+455,29,H,Ensino Medio,Propria,Pouco,Sem conta,2679,24,0,0.22757
+589,60,M,Graduacao,Propria,Pouco,Pouco,2246,12,1,0.2264
+581,49,M,Pos Graduacao,Propria,Pouco,Moderado,3124,12,0,0.22418
+422,47,M,Pos Graduacao,Propria,Pouco,Moderado,958,12,0,0.22401
+251,46,H,Pos Graduacao,Propria,Pouco,Alto,2251,12,0,0.2231
+572,26,H,Ensino Medio,Alugada,Sem investimento,Sem conta,5433,24,0,0.22236
+910,34,H,Graduacao,Propria,Pouco,Sem conta,4454,36,0,0.22081
+37,37,M,Graduacao,Propria,Pouco,Alto,2100,18,1,0.22029
+373,63,M,Ensino Medio,De favor,Sem investimento,Sem conta,13756,60,0,0.22002
+82,24,H,Pos Graduacao,Alugada,Moderado,Sem conta,1568,18,0,0.21748
+236,23,M,Ensino Medio,Propria,Sem investimento,Alto,14555,6,1,0.21718
+23,44,M,Graduacao,Propria,Moderado,Moderado,1804,12,0,0.21686
+888,34,M,Ensino Medio,Propria,Pouco,Sem conta,6614,36,0,0.21483
+797,22,H,Pos Graduacao,Alugada,Pouco,Sem conta,1258,12,0,0.21459
+77,51,M,Graduacao,Propria,Pouco,Moderado,4771,11,0,0.21447
+733,28,H,Graduacao,Alugada,Alto,Sem conta,2603,24,0,0.21298
+633,19,H,Graduacao,Alugada,Pouco,Sem conta,1980,9,1,0.21228
+213,66,M,Ensino Medio,Propria,Pouco,Alto,1908,30,1,0.2118
+848,59,M,Graduacao,Propria,Pouco,Pouco,1364,9,0,0.21164
+729,36,M,Graduacao,Propria,Alto,Alto,1275,24,0,0.21159
+279,29,M,Ensino Medio,Alugada,Moderado,Sem conta,1901,24,0,0.21118
+68,37,M,Graduacao,De favor,Pouco,Sem conta,1819,36,1,0.21066
+564,37,M,Ensino Medio,Propria,Sem investimento,Alto,4712,24,0,0.21065
+140,27,M,Ensino Medio,Propria,Alto,Alto,709,6,0,0.20932
+306,24,H,Pos Graduacao,Alugada,Sem investimento,Sem conta,4811,30,0,0.20785
+424,25,H,Graduacao,Propria,Sem investimento,Alto,2762,12,1,0.20702
+833,42,H,Graduacao,Propria,Sem investimento,Alto,5084,24,0,0.20564
+549,35,M,Graduacao,De favor,Sem investimento,Sem conta,8858,48,0,0.20418
+420,20,H,Graduacao,Alugada,Alto,Sem conta,3186,15,0,0.20346
+372,23,H,Graduacao,Alugada,Pouco,Sem conta,2146,10,0,0.20145
+865,20,H,Graduacao,Alugada,Alto,Sem conta,2221,15,0,0.1998
+180,28,M,Graduacao,Propria,Pouco,Sem conta,9572,36,1,0.19877
+411,35,M,Ensino Medio,Propria,Pouco,Sem conta,7253,33,0,0.19837
+419,33,H,Graduacao,Propria,Sem investimento,Alto,1042,18,1,0.19741
+975,57,H,Pos Graduacao,Propria,Alto,Alto,1258,24,0,0.19433
+717,32,M,Ensino Medio,De favor,Pouco,Sem conta,1505,18,0,0.19329
+350,23,H,Graduacao,Alugada,Pouco,Sem conta,1236,9,0,0.19328
+344,37,M,Pos Graduacao,Propria,Pouco,Alto,3949,10,0,0.19053
+64,26,H,Graduacao,Propria,Pouco,Sem conta,3181,24,0,0.18954
+974,33,H,Graduacao,Propria,Pouco,Sem conta,2831,30,0,0.18919
+968,29,M,Graduacao,Alugada,Sem investimento,Sem conta,7166,42,0,0.1878
+976,64,H,Graduacao,Propria,Pouco,Moderado,753,6,0,0.18766
+50,29,M,Pos Graduacao,Propria,Sem investimento,Alto,2333,24,0,0.18552
+409,28,M,Graduacao,Propria,Alto,Alto,939,12,1,0.18463
+144,23,H,Graduacao,Propria,Pouco,Sem conta,2288,21,0,0.18399
+665,27,M,Ensino Medio,Propria,Pouco,Sem conta,6314,24,0,0.1839
+523,23,H,Graduacao,Propria,Moderado,Sem conta,3488,24,0,0.18362
+882,36,M,Graduacao,Propria,Sem investimento,Alto,2181,30,0,0.18357
+177,52,M,Graduacao,Propria,Alto,Pouco,338,6,0,0.18352
+795,22,H,Graduacao,Alugada,Moderado,Sem conta,2301,9,0,0.18242
+582,26,H,Graduacao,Alugada,Pouco,Sem conta,1388,9,0,0.18238
+317,48,H,Pos Graduacao,Propria,Sem investimento,Alto,4351,24,0,0.18191
+599,32,M,Graduacao,De favor,Pouco,Sem conta,3863,24,0,0.18095
+718,31,M,Graduacao,Propria,Sem investimento,Alto,3148,24,0,0.17865
+38,37,M,Graduacao,Propria,Pouco,Alto,1225,10,0,0.17857
+225,27,M,Graduacao,Propria,Pouco,Sem conta,2613,36,0,0.17757
+877,28,M,Graduacao,Propria,Pouco,Sem conta,3595,36,0,0.17729
+817,24,H,Graduacao,Alugada,Pouco,Sem conta,1554,6,0,0.17698
+499,28,M,Graduacao,Propria,Moderado,Alto,1323,6,0,0.17645
+693,44,M,Pos Graduacao,Propria,Sem investimento,Pouco,4716,6,0,0.17459
+509,45,M,Ensino Medio,Propria,Moderado,Sem conta,8588,39,0,0.1743
+664,50,H,Pos Graduacao,Propria,Pouco,Alto,1047,6,0,0.17405
+757,39,M,Graduacao,De favor,Sem investimento,Alto,1271,15,1,0.17355
+506,36,M,Graduacao,Propria,Alto,Alto,2360,15,0,0.17344
+614,22,H,Graduacao,Propria,Pouco,Sem conta,1808,18,1,0.17274
+870,40,H,Graduacao,Propria,Alto,Sem conta,7678,36,0,0.17177
+645,27,M,Graduacao,Alugada,Sem investimento,Sem conta,7980,36,1,0.17132
+277,49,M,Pos Graduacao,Propria,Sem investimento,Pouco,1262,12,0,0.17096
+837,23,H,Pos Graduacao,Alugada,Pouco,Sem conta,601,4,0,0.17088
+842,23,H,Graduacao,Propria,Pouco,Sem conta,1943,18,1,0.16964
+418,31,H,Ensino Medio,Propria,Alto,Sem conta,2782,21,0,0.16822
+476,24,M,Graduacao,Propria,Alto,Sem conta,2569,39,0,0.16709
+178,31,M,Ensino Medio,Alugada,Pouco,Sem conta,1963,12,0,0.16697
+909,33,H,Pos Graduacao,Propria,Sem investimento,Alto,3195,9,0,0.16685
+886,34,M,Graduacao,Propria,Sem investimento,Alto,2825,24,0,0.16684
+85,29,H,Ensino Medio,Propria,Pouco,Sem conta,1412,12,0,0.16602
+774,66,M,Ensino Medio,De favor,Alto,Alto,1480,12,0,0.16456
+385,25,H,Graduacao,Propria,Pouco,Sem conta,2238,18,0,0.16366
+632,23,M,Graduacao,Propria,Sem investimento,Alto,1444,15,0,0.16285
+763,30,M,Ensino Medio,De favor,Sem investimento,Sem conta,12680,21,1,0.16214
+723,66,H,Pos Graduacao,Propria,Alto,Moderado,790,9,0,0.16157
+967,54,H,Ensino Medio,Alugada,Pouco,Sem conta,3568,15,0,0.16102
+276,26,H,Graduacao,Propria,Pouco,Sem conta,2404,18,0,0.16079
+778,38,M,Ensino Medio,Propria,Alto,Sem conta,5711,36,0,0.16038
+705,35,H,Graduacao,De favor,Alto,Sem conta,5324,15,0,0.16023
+415,35,M,Graduacao,Propria,Pouco,Sem conta,5842,36,0,0.16017
+401,28,M,Graduacao,Propria,Sem investimento,Alto,1887,18,0,0.15959
+94,54,M,Graduacao,Propria,Alto,Moderado,1318,12,0,0.15944
+679,26,H,Graduacao,Propria,Pouco,Sem conta,1453,18,0,0.15779
+671,31,M,Graduacao,Propria,Moderado,Sem conta,5742,36,0,0.15702
+575,24,H,Graduacao,Propria,Pouco,Sem conta,2788,15,0,0.15659
+857,28,M,Graduacao,De favor,Pouco,Sem conta,3343,15,0,0.15529
+845,35,M,Graduacao,Propria,Sem investimento,Alto,3976,21,0,0.1549
+536,75,H,Ensino Medio,Propria,Sem investimento,Pouco,1374,6,0,0.15425
+69,25,H,Graduacao,Propria,Sem investimento,Sem conta,2394,36,0,0.15424
+5,35,M,Pos Graduacao,De favor,Sem investimento,Sem conta,9055,36,0,0.15413
+382,25,H,Graduacao,Alugada,Sem investimento,Sem conta,1283,22,0,0.1541
+302,37,M,Pos Graduacao,Propria,Sem investimento,Alto,1344,24,1,0.1541
+123,63,M,Graduacao,De favor,Pouco,Alto,781,10,0,0.15366
+450,30,M,Ensino Medio,Propria,Sem investimento,Sem conta,11054,36,0,0.15332
+700,29,H,Pos Graduacao,Alugada,Alto,Sem conta,1123,12,1,0.15267
+361,37,M,Ensino Medio,Propria,Sem investimento,Alto,3399,12,0,0.15263
+40,30,M,Ensino Medio,Propria,Alto,Sem conta,2333,30,0,0.1524
+920,28,H,Graduacao,Propria,Pouco,Sem conta,1817,18,0,0.15236
+202,26,M,Graduacao,Propria,Pouco,Sem conta,5117,27,0,0.1518
+626,41,M,Graduacao,Propria,Pouco,Alto,2116,6,0,0.15112
+386,21,H,Graduacao,Alugada,Sem investimento,Sem conta,1126,18,0,0.15095
+880,38,M,Ensino Medio,Propria,Pouco,Sem conta,7814,24,0,0.15059
+78,39,M,Pos Graduacao,Propria,Sem investimento,Sem conta,9436,54,0,0.15043
+122,24,M,Pos Graduacao,Alugada,Pouco,Sem conta,1768,12,0,0.14942
+449,61,M,Graduacao,Propria,Alto,Moderado,1512,15,1,0.149
+402,27,M,Graduacao,Propria,Pouco,Sem conta,8648,24,1,0.14768
+546,37,H,Graduacao,Propria,Pouco,Sem conta,2022,24,0,0.14736
+384,26,M,Pos Graduacao,Propria,Moderado,Sem conta,4272,30,0,0.14731
+258,23,H,Graduacao,Propria,Moderado,Sem conta,3812,15,0,0.14729
+776,37,M,Graduacao,Propria,Pouco,Sem conta,3535,36,0,0.14662
+956,49,M,Pos Graduacao,Propria,Sem investimento,Alto,3656,30,0,0.14586
+520,44,M,Graduacao,De favor,Pouco,Sem conta,5507,24,0,0.14537
+408,26,M,Ensino Medio,Propria,Alto,Sem conta,3235,24,0,0.14484
+453,35,M,Ensino Medio,Propria,Pouco,Sem conta,2670,24,0,0.14478
+435,25,M,Graduacao,Propria,Sem investimento,Alto,1484,12,1,0.1447
+628,36,M,Graduacao,Propria,Alto,Sem conta,4042,42,0,0.14414
+895,31,M,Ensino Medio,Propria,Sem investimento,Sem conta,8947,36,0,0.14388
+636,28,H,Graduacao,Propria,Alto,Sem conta,1376,24,0,0.14386
+161,30,H,Graduacao,Propria,Pouco,Sem conta,1055,18,0,0.14378
+854,45,M,Graduacao,Propria,Pouco,Sem conta,10875,36,0,0.14324
+267,38,H,Graduacao,Propria,Pouco,Sem conta,1533,24,0,0.14282
+45,35,H,Ensino Medio,Propria,Pouco,Sem conta,1393,11,0,0.14248
+799,35,M,Ensino Medio,Propria,Sem investimento,Alto,1549,9,0,0.14207
+296,20,H,Graduacao,Alugada,Sem investimento,Sem conta,4675,12,0,0.14189
+794,32,M,Graduacao,Alugada,Alto,Sem conta,3062,24,0,0.14185
+467,32,M,Graduacao,Propria,Sem investimento,Sem conta,7238,48,0,0.14133
+448,55,H,Ensino Medio,Propria,Sem investimento,Alto,1424,12,0,0.14097
+864,25,M,Pos Graduacao,Alugada,Pouco,Sem conta,2210,10,1,0.14014
+426,29,M,Graduacao,Propria,Pouco,Sem conta,2743,28,0,0.13927
+294,46,M,Ensino Medio,Propria,Sem investimento,Sem conta,7629,48,0,0.13853
+254,24,M,Graduacao,Propria,Sem investimento,Alto,2030,9,0,0.1383
+904,36,M,Ensino Medio,Propria,Pouco,Sem conta,1278,24,0,0.13777
+280,23,M,Graduacao,Alugada,Alto,Sem conta,3368,15,0,0.13714
+697,38,H,Ensino Medio,Propria,Pouco,Sem conta,926,12,0,0.13578
+390,30,M,Ensino Medio,Propria,Pouco,Sem conta,1820,18,0,0.13562
+683,47,M,Graduacao,De favor,Pouco,Sem conta,5103,24,0,0.13517
+657,37,M,Graduacao,Propria,Sem investimento,Sem conta,10222,48,0,0.13481
+487,62,H,Graduacao,De favor,Pouco,Sem conta,3757,24,0,0.13479
+902,42,M,Graduacao,De favor,Sem investimento,Sem conta,10477,36,0,0.13476
+363,21,M,Graduacao,Alugada,Pouco,Sem conta,1766,6,0,0.13464
+871,46,M,Graduacao,Propria,Pouco,Alto,1343,6,0,0.13364
+171,26,H,Graduacao,Propria,Pouco,Sem conta,763,12,0,0.1333
+245,25,M,Graduacao,Propria,Pouco,Sem conta,1258,24,0,0.13274
+772,36,M,Ensino Medio,Propria,Pouco,Sem conta,3275,21,0,0.13268
+331,30,H,Graduacao,Propria,Moderado,Sem conta,1864,18,1,0.13165
+243,27,H,Graduacao,Propria,Pouco,Sem conta,1185,12,0,0.13156
+421,30,M,Graduacao,Propria,Sem investimento,Alto,2028,12,0,0.13135
+686,27,M,Graduacao,Propria,Sem investimento,Alto,1347,10,0,0.1312
+311,25,M,Graduacao,Propria,Moderado,Sem conta,5511,24,0,0.13033
+136,27,M,Graduacao,Propria,Alto,Sem conta,8613,27,0,0.12997
+215,39,H,Pos Graduacao,Propria,Sem investimento,Alto,932,6,0,0.12987
+138,35,M,Graduacao,Propria,Sem investimento,Alto,2728,15,0,0.1293
+571,38,M,Graduacao,Propria,Pouco,Sem conta,5954,30,0,0.12892
+852,35,M,Graduacao,De favor,Pouco,Sem conta,1471,15,0,0.12865
+66,29,H,Graduacao,Propria,Pouco,Sem conta,2171,12,0,0.12853
+579,27,M,Pos Graduacao,Propria,Pouco,Sem conta,937,24,0,0.12794
+271,37,H,Graduacao,Alugada,Alto,Sem conta,1402,12,0,0.12756
+694,28,M,Graduacao,Propria,Pouco,Sem conta,2284,24,0,0.12699
+327,34,H,Graduacao,Propria,Alto,Sem conta,1525,24,0,0.12673
+100,41,M,Pos Graduacao,Alugada,Moderado,Sem conta,1469,24,0,0.12668
+824,35,M,Ensino Medio,Propria,Pouco,Sem conta,3780,18,0,0.12663
+324,36,H,Graduacao,Propria,Pouco,Sem conta,1028,18,0,0.1262
+489,26,M,Graduacao,Alugada,Pouco,Sem conta,3518,6,0,0.12517
+508,28,M,Graduacao,Propria,Pouco,Sem conta,1413,24,0,0.12473
+847,28,M,Graduacao,Propria,Pouco,Sem conta,1249,24,0,0.12431
+995,31,H,Pos Graduacao,Propria,Pouco,Sem conta,1736,12,0,0.12358
+137,66,M,Pos Graduacao,Propria,Alto,Moderado,766,12,1,0.12343
+670,27,M,Pos Graduacao,Propria,Moderado,Sem conta,4139,24,0,0.12291
+106,39,M,Ensino Medio,Propria,Pouco,Sem conta,6458,18,1,0.1226
+984,30,M,Pos Graduacao,Propria,Pouco,Sem conta,2028,24,0,0.12254
+389,27,H,Graduacao,Propria,Pouco,Sem conta,1449,9,0,0.12222
+859,26,M,Graduacao,Alugada,Moderado,Sem conta,3577,9,0,0.12199
+784,60,M,Ensino Medio,Propria,Sem investimento,Alto,6468,20,0,0.12177
+502,49,M,Graduacao,Propria,Moderado,Alto,1126,9,0,0.12131
+676,33,M,Graduacao,Propria,Pouco,Sem conta,5150,24,0,0.12074
+841,28,M,Pos Graduacao,Propria,Pouco,Sem conta,2993,21,0,0.12064
+423,34,M,Ensino Medio,Propria,Moderado,Sem conta,1591,21,0,0.12043
+977,42,M,Graduacao,Propria,Sem investimento,Alto,2427,18,0,0.11933
+102,24,H,Graduacao,Propria,Pouco,Sem conta,932,6,0,0.11929
+526,31,H,Graduacao,Propria,Moderado,Sem conta,1532,15,0,0.11817
+437,37,H,Graduacao,Propria,Alto,Sem conta,1287,24,0,0.11807
+49,28,H,Graduacao,Propria,Moderado,Sem conta,2073,12,0,0.11789
+404,43,M,Graduacao,Propria,Sem investimento,Alto,2899,18,0,0.11788
+56,52,M,Ensino Medio,Propria,Sem investimento,Alto,6468,12,1,0.11742
+764,27,M,Graduacao,Propria,Moderado,Sem conta,2463,24,0,0.11713
+698,24,M,Graduacao,Propria,Pouco,Sem conta,1800,18,0,0.11709
+360,61,M,Graduacao,De favor,Sem investimento,Alto,1239,18,0,0.11698
+533,26,M,Graduacao,Propria,Moderado,Sem conta,1311,24,0,0.11691
+758,31,M,Graduacao,Propria,Pouco,Sem conta,1393,24,0,0.11672
+469,35,M,Pos Graduacao,Propria,Pouco,Sem conta,4679,24,0,0.11596
+622,38,M,Graduacao,Propria,Sem investimento,Sem conta,3914,48,1,0.11581
+164,36,M,Graduacao,Propria,Alto,Sem conta,909,36,0,0.11545
+547,32,M,Graduacao,Propria,Pouco,Sem conta,1552,24,0,0.11454
+366,27,M,Graduacao,Propria,Pouco,Sem conta,3850,18,0,0.11435
+193,29,M,Graduacao,Alugada,Pouco,Sem conta,2108,6,0,0.11378
+592,36,H,Pos Graduacao,Propria,Alto,Sem conta,1572,21,0,0.11362
+638,34,H,Graduacao,Propria,Pouco,Sem conta,1493,12,0,0.11354
+860,27,M,Graduacao,Propria,Alto,Sem conta,5804,24,0,0.11325
+433,33,M,Graduacao,Propria,Pouco,Sem conta,2058,24,0,0.11322
+787,38,M,Graduacao,Propria,Sem investimento,Sem conta,2751,48,0,0.11304
+643,33,M,Graduacao,Propria,Pouco,Sem conta,1851,24,0,0.11273
+898,33,H,Pos Graduacao,Alugada,Sem investimento,Sem conta,2186,15,0,0.11129
+256,35,M,Pos Graduacao,Propria,Pouco,Sem conta,2684,24,0,0.11123
+46,39,M,Graduacao,Propria,Alto,Sem conta,2299,36,0,0.1112
+238,35,H,Graduacao,Propria,Pouco,Sem conta,1291,12,0,0.11058
+960,30,M,Graduacao,Alugada,Pouco,Sem conta,1740,6,0,0.11043
+196,28,H,Graduacao,Propria,Pouco,Sem conta,1382,6,0,0.1102
+949,31,M,Graduacao,Propria,Moderado,Sem conta,3621,24,1,0.10981
+647,26,H,Graduacao,Propria,Alto,Sem conta,1386,12,1,0.10954
+654,35,M,Graduacao,Propria,Pouco,Sem conta,2346,24,0,0.10895
+314,29,M,Pos Graduacao,Propria,Sem investimento,Alto,1494,4,0,0.10883
+263,57,H,Pos Graduacao,De favor,Pouco,Sem conta,2748,12,0,0.10863
+863,32,M,Pos Graduacao,Propria,Alto,Sem conta,4526,27,0,0.10839
+133,47,M,Graduacao,De favor,Pouco,Sem conta,1984,18,0,0.10808
+861,28,M,Graduacao,Propria,Pouco,Sem conta,2169,18,1,0.10797
+278,32,H,Graduacao,Propria,Pouco,Sem conta,4611,6,1,0.10787
+800,54,M,Graduacao,De favor,Pouco,Sem conta,1597,24,0,0.10777
+483,30,H,Graduacao,Propria,Alto,Sem conta,960,15,0,0.10764
+463,38,M,Graduacao,Propria,Sem investimento,Alto,754,12,0,0.10724
+451,29,H,Graduacao,Propria,Pouco,Sem conta,518,6,0,0.10583
+394,31,M,Ensino Medio,Propria,Pouco,Sem conta,2406,9,0,0.10574
+399,43,H,Pos Graduacao,Propria,Alto,Sem conta,1516,24,0,0.10525
+371,33,M,Graduacao,Propria,Pouco,Sem conta,6070,18,0,0.10481
+175,53,H,Ensino Medio,Propria,Sem investimento,Sem conta,7485,30,1,0.10474
+889,40,M,Graduacao,Alugada,Sem investimento,Sem conta,7824,28,0,0.10465
+132,27,M,Pos Graduacao,Propria,Pouco,Sem conta,2708,15,0,0.10441
+211,45,H,Pos Graduacao,Propria,Sem investimento,Sem conta,3835,36,0,0.10407
+459,32,M,Graduacao,Propria,Pouco,Sem conta,4594,18,0,0.1039
+436,23,M,Pos Graduacao,Alugada,Alto,Sem conta,660,6,0,0.10346
+971,43,M,Pos Graduacao,Propria,Pouco,Sem conta,7393,24,0,0.10271
+710,32,M,Ensino Medio,Propria,Alto,Sem conta,629,18,0,0.10264
+598,31,M,Graduacao,Propria,Pouco,Sem conta,2775,18,1,0.10225
+345,43,H,Pos Graduacao,Propria,Pouco,Sem conta,1459,15,0,0.102
+767,31,H,Graduacao,Alugada,Sem investimento,Sem conta,2901,10,0,0.10183
+253,35,M,Graduacao,Propria,Moderado,Sem conta,4151,24,0,0.10153
+282,49,M,Pos Graduacao,Propria,Sem investimento,Alto,1445,18,0,0.1014
+532,41,M,Graduacao,Alugada,Pouco,Sem conta,1503,12,0,0.10101
+492,27,H,Graduacao,Propria,Moderado,Sem conta,1237,6,0,0.1008
+557,29,H,Graduacao,Propria,Sem investimento,Sem conta,5003,21,1,0.10037
+855,33,M,Graduacao,Propria,Moderado,Sem conta,1474,24,0,0.10035
+224,30,M,Graduacao,Propria,Pouco,Sem conta,4657,15,0,0.10032
+908,46,H,Pos Graduacao,Propria,Pouco,Sem conta,3594,15,0,0.09976
+428,20,M,Graduacao,Propria,Pouco,Sem conta,1313,9,0,0.09945
+488,35,M,Pos Graduacao,Alugada,Moderado,Sem conta,1418,10,0,0.09937
+19,31,M,Graduacao,Propria,Alto,Sem conta,3430,24,0,0.09851
+403,27,M,Pos Graduacao,Propria,Pouco,Sem conta,802,14,0,0.09759
+621,32,M,Graduacao,Propria,Pouco,Sem conta,1530,18,1,0.09737
+0,67,M,Graduacao,Propria,Sem investimento,Pouco,1169,6,0,0.09728
+160,36,M,Graduacao,Propria,Moderado,Sem conta,2872,24,0,0.09661
+52,25,M,Graduacao,Propria,Pouco,Sem conta,1262,12,0,0.0963
+608,33,M,Graduacao,Propria,Pouco,Sem conta,2051,18,0,0.09626
+497,40,M,Graduacao,Propria,Pouco,Sem conta,1585,24,0,0.09582
+642,40,M,Ensino Medio,Propria,Moderado,Sem conta,4623,15,1,0.09551
+490,26,M,Graduacao,Propria,Pouco,Sem conta,1934,12,0,0.0955
+228,22,M,Graduacao,Propria,Pouco,Sem conta,1478,9,1,0.0954
+756,74,M,Ensino Medio,Propria,Pouco,Alto,1299,6,0,0.09509
+541,60,M,Graduacao,De favor,Pouco,Sem conta,2032,24,0,0.09504
+244,35,H,Pos Graduacao,Propria,Alto,Sem conta,3447,12,0,0.09477
+440,39,M,Ensino Medio,Propria,Pouco,Sem conta,1884,12,0,0.09476
+376,34,M,Graduacao,Propria,Pouco,Sem conta,2320,18,0,0.09464
+827,36,M,Graduacao,Propria,Pouco,Sem conta,4165,18,1,0.09408
+115,47,M,Graduacao,Propria,Sem investimento,Sem conta,3578,48,0,0.094
+464,34,M,Graduacao,Propria,Pouco,Sem conta,1950,18,0,0.0939
+290,26,M,Graduacao,Propria,Pouco,Sem conta,1076,12,0,0.09377
+577,33,H,Graduacao,Propria,Sem investimento,Sem conta,1927,24,0,0.09321
+868,37,M,Graduacao,Propria,Sem investimento,Sem conta,7409,36,0,0.09216
+266,36,M,Graduacao,Propria,Sem investimento,Sem conta,6304,36,0,0.09208
+820,27,M,Graduacao,Propria,Pouco,Sem conta,1101,12,0,0.09171
+185,31,M,Graduacao,Propria,Pouco,Sem conta,1360,15,0,0.09143
+749,33,M,Graduacao,Propria,Pouco,Sem conta,3029,15,0,0.09054
+567,34,M,Graduacao,Propria,Alto,Sem conta,2578,24,0,0.09038
+584,52,H,Ensino Medio,De favor,Sem investimento,Sem conta,2133,12,0,0.09037
+493,38,M,Graduacao,Propria,Sem investimento,Alto,368,6,0,0.09035
+61,50,M,Graduacao,Propria,Sem investimento,Alto,1537,15,0,0.09026
+897,35,H,Graduacao,Propria,Alto,Sem conta,1592,12,0,0.08982
+412,42,M,Ensino Medio,Propria,Pouco,Sem conta,2292,12,1,0.08929
+358,28,M,Graduacao,Propria,Pouco,Sem conta,776,12,0,0.08903
+734,37,H,Graduacao,Propria,Pouco,Sem conta,3380,4,0,0.0889
+963,35,M,Graduacao,Propria,Alto,Sem conta,2397,24,1,0.088
+883,65,H,Ensino Medio,Propria,Pouco,Sem conta,1098,18,0,0.08778
+682,33,M,Graduacao,Propria,Pouco,Sem conta,1478,15,0,0.08758
+247,35,M,Graduacao,Alugada,Moderado,Sem conta,1204,6,0,0.08743
+873,24,H,Graduacao,Propria,Sem investimento,Sem conta,874,15,0,0.08736
+836,21,H,Graduacao,Propria,Sem investimento,Sem conta,886,12,0,0.08615
+370,36,M,Graduacao,Propria,Sem investimento,Sem conta,3079,36,0,0.08592
+839,46,M,Graduacao,Propria,Pouco,Sem conta,2611,24,0,0.08545
+222,30,M,Graduacao,Propria,Pouco,Sem conta,707,12,0,0.08493
+978,47,M,Pos Graduacao,Propria,Pouco,Sem conta,2538,24,1,0.08456
+881,48,M,Graduacao,De favor,Sem investimento,Sem conta,9277,24,0,0.08317
+400,39,M,Graduacao,Propria,Pouco,Sem conta,1473,18,0,0.08292
+104,26,M,Graduacao,Alugada,Sem investimento,Sem conta,2445,12,0,0.08272
+550,23,H,Graduacao,Propria,Sem investimento,Sem conta,996,12,0,0.08249
+318,32,M,Graduacao,Propria,Pouco,Sem conta,701,12,0,0.08111
+941,31,M,Pos Graduacao,Propria,Pouco,Sem conta,1546,10,0,0.0811
+452,34,M,Graduacao,Propria,Pouco,Sem conta,2759,12,0,0.08099
+300,54,H,Ensino Medio,Propria,Pouco,Sem conta,672,6,0,0.08031
+413,40,M,Pos Graduacao,Alugada,Alto,Sem conta,1597,10,0,0.08003
+190,54,M,Ensino Medio,Propria,Alto,Sem conta,4591,24,1,0.07986
+534,25,M,Graduacao,Propria,Sem investimento,Sem conta,3105,24,0,0.07937
+932,30,M,Graduacao,Propria,Pouco,Sem conta,1224,9,0,0.07903
+80,44,H,Graduacao,Propria,Sem investimento,Sem conta,5943,24,1,0.07903
+791,41,M,Ensino Medio,Propria,Sem investimento,Sem conta,6313,24,0,0.07887
+879,36,M,Graduacao,Propria,Sem investimento,Sem conta,6742,30,0,0.07876
+264,32,M,Pos Graduacao,Propria,Pouco,Sem conta,1231,10,0,0.07871
+48,39,M,Pos Graduacao,Propria,Pouco,Sem conta,7228,11,0,0.07845
+275,32,M,Graduacao,Propria,Pouco,Sem conta,2697,9,0,0.07792
+991,34,M,Pos Graduacao,Propria,Moderado,Sem conta,1569,15,0,0.07781
+738,45,M,Ensino Medio,Propria,Pouco,Sem conta,6761,6,0,0.07776
+298,43,M,Graduacao,Propria,Pouco,Sem conta,2515,18,0,0.07736
+445,41,H,Pos Graduacao,Alugada,Sem investimento,Sem conta,1244,9,0,0.07719
+150,42,M,Graduacao,De favor,Moderado,Sem conta,1346,6,0,0.07699
+948,43,M,Pos Graduacao,Propria,Pouco,Sem conta,1533,18,1,0.0768
+843,50,M,Graduacao,Propria,Pouco,Sem conta,1559,24,0,0.07619
+269,25,M,Graduacao,Propria,Sem investimento,Sem conta,999,24,0,0.07582
+365,36,M,Graduacao,Propria,Pouco,Sem conta,1542,12,0,0.07532
+748,26,M,Graduacao,Propria,Sem investimento,Sem conta,5248,21,0,0.07475
+786,40,M,Graduacao,Propria,Alto,Sem conta,2675,22,0,0.07466
+204,38,M,Pos Graduacao,Propria,Pouco,Sem conta,1495,12,0,0.07287
+844,47,M,Graduacao,Propria,Pouco,Sem conta,3422,18,0,0.07192
+916,32,M,Graduacao,Propria,Moderado,Sem conta,2848,10,0,0.07186
+674,41,M,Pos Graduacao,Propria,Alto,Sem conta,2580,21,1,0.0718
+913,28,M,Graduacao,Propria,Alto,Sem conta,2142,11,0,0.07165
+830,44,M,Graduacao,Propria,Alto,Sem conta,2375,24,0,0.07149
+662,50,M,Graduacao,Propria,Pouco,Sem conta,2241,21,0,0.07111
+939,46,M,Ensino Medio,Propria,Sem investimento,Sem conta,6842,24,0,0.07106
+997,38,M,Graduacao,Propria,Pouco,Sem conta,804,12,0,0.07076
+232,35,M,Graduacao,Propria,Moderado,Sem conta,2141,12,0,0.0698
+354,46,M,Graduacao,De favor,Alto,Sem conta,727,10,0,0.06949
+151,38,M,Graduacao,Propria,Pouco,Sem conta,1924,10,0,0.06856
+673,24,M,Graduacao,Propria,Alto,Sem conta,2080,6,0,0.06825
+867,42,M,Graduacao,Propria,Pouco,Sem conta,3331,12,0,0.06814
+147,51,H,Graduacao,Propria,Moderado,Sem conta,682,12,0,0.06781
+223,32,M,Graduacao,Propria,Sem investimento,Sem conta,2978,24,0,0.0673
+352,38,M,Ensino Medio,Propria,Sem investimento,Sem conta,3229,18,0,0.06682
+443,41,M,Pos Graduacao,Propria,Pouco,Sem conta,719,12,1,0.06681
+716,40,M,Graduacao,Propria,Sem investimento,Sem conta,3077,30,0,0.06625
+92,33,H,Pos Graduacao,Propria,Sem investimento,Sem conta,797,12,1,0.06608
+773,52,M,Graduacao,Propria,Moderado,Sem conta,2223,24,0,0.06593
+681,37,M,Graduacao,De favor,Sem investimento,Sem conta,2279,12,0,0.06587
+942,31,M,Graduacao,Propria,Sem investimento,Sem conta,929,24,0,0.06585
+891,46,M,Graduacao,Propria,Pouco,Sem conta,1829,15,0,0.06534
+162,36,M,Graduacao,Propria,Alto,Sem conta,1262,15,0,0.06527
+725,41,H,Pos Graduacao,Propria,Alto,Sem conta,250,6,0,0.06518
+688,35,M,Graduacao,Propria,Moderado,Sem conta,2753,9,0,0.06501
+206,43,M,Graduacao,Propria,Pouco,Sem conta,1935,12,0,0.06455
+183,50,M,Graduacao,Propria,Alto,Sem conta,3777,24,0,0.0641
+903,40,M,Graduacao,Alugada,Sem investimento,Sem conta,1386,15,0,0.06353
+231,51,M,Pos Graduacao,De favor,Alto,Sem conta,2507,9,0,0.06341
+606,74,M,Ensino Medio,Propria,Pouco,Sem conta,4526,24,0,0.0625
+214,51,M,Graduacao,Propria,Sem investimento,Sem conta,3342,36,0,0.06102
+348,34,M,Pos Graduacao,Propria,Moderado,Sem conta,1743,6,0,0.06066
+754,55,M,Graduacao,De favor,Alto,Sem conta,1555,12,1,0.06066
+712,46,M,Ensino Medio,Propria,Sem investimento,Sem conta,2476,21,0,0.05931
+259,57,H,Pos Graduacao,Propria,Moderado,Sem conta,1154,11,0,0.05871
+26,39,M,Pos Graduacao,Propria,Pouco,Sem conta,426,6,0,0.0587
+53,31,M,Graduacao,Propria,Sem investimento,Sem conta,3378,18,0,0.05865
+894,29,M,Graduacao,Propria,Sem investimento,Sem conta,1169,18,0,0.05854
+6,53,M,Graduacao,Propria,Alto,Sem conta,2835,24,0,0.05851
+135,38,H,Graduacao,Propria,Sem investimento,Sem conta,1240,12,0,0.0585
+609,45,M,Graduacao,De favor,Sem investimento,Sem conta,1300,15,0,0.05816
+680,56,H,Graduacao,Propria,Pouco,Sem conta,1538,6,0,0.05811
+635,47,M,Graduacao,Propria,Pouco,Sem conta,1393,12,0,0.05806
+165,32,M,Graduacao,Propria,Alto,Sem conta,2978,6,0,0.05771
+2,49,M,Pos Graduacao,Propria,Pouco,Sem conta,2096,12,0,0.05708
+377,36,M,Graduacao,De favor,Sem investimento,Sem conta,846,7,0,0.0567
+962,29,M,Graduacao,Propria,Sem investimento,Sem conta,3556,15,0,0.05668
+149,46,M,Graduacao,Propria,Alto,Sem conta,1582,18,0,0.05658
+270,32,M,Graduacao,Propria,Sem investimento,Sem conta,2662,18,0,0.05638
+379,52,H,Pos Graduacao,Propria,Moderado,Sem conta,362,6,0,0.0563
+427,46,M,Graduacao,Propria,Alto,Sem conta,1149,18,0,0.05604
+947,38,M,Ensino Medio,Propria,Sem investimento,Sem conta,2859,12,0,0.05592
+695,50,M,Graduacao,Alugada,Alto,Sem conta,1236,6,0,0.05538
+619,49,M,Pos Graduacao,Propria,Pouco,Sem conta,640,12,0,0.05526
+519,36,M,Graduacao,De favor,Sem investimento,Sem conta,700,6,0,0.05493
+305,33,M,Graduacao,Propria,Alto,Sem conta,1543,6,0,0.05459
+281,50,M,Graduacao,Propria,Pouco,Sem conta,1574,12,0,0.05431
+219,64,H,Graduacao,Propria,Pouco,Sem conta,1364,10,0,0.05371
+486,52,M,Graduacao,Propria,Pouco,Sem conta,3077,12,0,0.05357
+851,43,M,Graduacao,Propria,Sem investimento,Sem conta,4042,24,0,0.05319
+234,42,M,Pos Graduacao,Propria,Pouco,Sem conta,1544,4,0,0.05296
+20,48,M,Graduacao,Propria,Pouco,Sem conta,2134,9,0,0.05293
+527,42,M,Pos Graduacao,Propria,Pouco,Sem conta,1503,4,0,0.05291
+943,42,M,Pos Graduacao,Propria,Pouco,Sem conta,1455,4,0,0.05285
+65,48,M,Graduacao,Propria,Sem investimento,Sem conta,5190,27,0,0.05282
+856,40,H,Graduacao,Propria,Sem investimento,Sem conta,894,10,0,0.0523
+987,64,H,Graduacao,Propria,Moderado,Sem conta,1409,13,0,0.05222
+326,49,M,Graduacao,Alugada,Sem investimento,Sem conta,5801,12,0,0.05204
+933,42,M,Graduacao,Propria,Alto,Sem conta,522,12,0,0.05118
+726,47,M,Pos Graduacao,Propria,Alto,Sem conta,1316,15,0,0.05116
+406,43,M,Graduacao,Propria,Sem investimento,Sem conta,2197,24,0,0.05105
+24,26,M,Graduacao,Propria,Sem investimento,Sem conta,2069,10,0,0.05104
+246,52,M,Graduacao,Propria,Pouco,Sem conta,717,12,0,0.05082
+81,47,M,Graduacao,Propria,Alto,Sem conta,1213,15,0,0.0503
+742,41,M,Graduacao,Propria,Sem investimento,Sem conta,3160,21,0,0.05019
+505,27,M,Pos Graduacao,Propria,Sem investimento,Sem conta,1309,10,1,0.04972
+484,44,M,Graduacao,Propria,Alto,Sem conta,1163,12,0,0.04951
+781,60,M,Graduacao,Propria,Alto,Sem conta,1940,24,0,0.04859
+940,45,M,Ensino Medio,Propria,Sem investimento,Sem conta,3527,12,0,0.04808
+473,36,M,Ensino Medio,Propria,Sem investimento,Sem conta,1238,6,0,0.04763
+625,35,M,Graduacao,Propria,Sem investimento,Sem conta,1979,15,0,0.04746
+90,56,M,Graduacao,Propria,Pouco,Sem conta,618,12,0,0.0461
+901,44,M,Graduacao,Propria,Sem investimento,Sem conta,3485,20,0,0.04574
+55,26,M,Pos Graduacao,Propria,Sem investimento,Sem conta,783,6,0,0.04485
+241,51,M,Graduacao,Propria,Pouco,Sem conta,1595,6,0,0.04467
+71,46,M,Pos Graduacao,Alugada,Sem investimento,Sem conta,730,7,0,0.04384
+990,37,M,Pos Graduacao,Propria,Sem investimento,Sem conta,3565,12,0,0.04364
+792,27,M,Graduacao,Propria,Sem investimento,Sem conta,1221,6,0,0.04358
+210,33,M,Graduacao,Propria,Sem investimento,Sem conta,3074,9,0,0.04292
+803,35,M,Graduacao,Propria,Sem investimento,Sem conta,976,12,0,0.04256
+715,63,M,Graduacao,Propria,Sem investimento,Sem conta,7596,30,0,0.04251
+760,59,H,Graduacao,Propria,Sem investimento,Sem conta,5045,15,0,0.04214
+544,61,M,Pos Graduacao,Propria,Pouco,Sem conta,1255,12,0,0.04211
+928,58,M,Graduacao,Propria,Sem investimento,Sem conta,1867,30,0,0.04211
+551,45,M,Pos Graduacao,Propria,Alto,Sem conta,1750,6,0,0.04182
+769,63,M,Pos Graduacao,Propria,Pouco,Sem conta,1655,12,0,0.0405
+16,53,M,Graduacao,Propria,Sem investimento,Sem conta,2424,24,0,0.04041
+846,68,M,Graduacao,Alugada,Sem investimento,Sem conta,6761,18,1,0.04016
+33,57,M,Pos Graduacao,Alugada,Sem investimento,Sem conta,1264,12,0,0.03939
+514,54,M,Graduacao,Propria,Sem investimento,Sem conta,2255,24,0,0.0393
+209,55,M,Graduacao,Propria,Alto,Sem conta,1413,12,0,0.03827
+159,34,M,Pos Graduacao,Propria,Sem investimento,Sem conta,1898,6,0,0.03796
+798,54,M,Graduacao,Propria,Sem investimento,Sem conta,717,24,0,0.03795
+200,52,M,Graduacao,Propria,Alto,Sem conta,936,9,0,0.0373
+8,61,M,Pos Graduacao,Propria,Alto,Sem conta,3059,12,0,0.03489
+96,61,H,Graduacao,Propria,Sem investimento,Sem conta,2012,12,0,0.03436
+297,45,M,Pos Graduacao,Propria,Sem investimento,Sem conta,1287,10,0,0.03226
+356,49,M,Graduacao,Propria,Sem investimento,Sem conta,2331,12,0,0.03132
+994,50,M,Graduacao,Propria,Sem investimento,Sem conta,2390,12,0,0.03061
+816,62,M,Graduacao,Propria,Alto,Sem conta,1338,6,0,0.02707
+430,74,M,Pos Graduacao,Propria,Pouco,Sem conta,3448,5,0,0.02635
+283,63,M,Graduacao,Propria,Sem investimento,Sem conta,1520,15,0,0.02388
+629,64,M,Pos Graduacao,Propria,Sem investimento,Sem conta,3832,9,0,0.0209
+807,65,M,Graduacao,Propria,Sem investimento,Sem conta,930,12,0,0.02053
